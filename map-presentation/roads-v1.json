@@ -1,0 +1,13 @@
+{
+  "id": "installed-road-presentation-v1",
+  "revision": 3,
+  "source_sha256": "13317d24c4709e1f4203f81928dc98c5427b970038afdd9fc12e0630b829a344",
+  "expanded_each_side_metres": 3.2,
+  "feather_metres": 0.55,
+  "road_and_pad_seed_pixels": 725181,
+  "added_dirt_pixels": 563871,
+  "healed_redundant_scar_pixels": 220385,
+  "water_pixels_painted": 0,
+  "navigation_world_changed": false,
+  "source_texture_changed": false
+}

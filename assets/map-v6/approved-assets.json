@@ -1,0 +1,344 @@
+[
+  {
+    "id": "TRB6-TERRAIN-001",
+    "version": 6,
+    "source": "Authored terrain-rebuild-v6; exact reviewed bytes",
+    "intended_use": "terrain of the authored map region",
+    "file": "reports/asset-review/terrain-rebuild-v6/assets/TRB6-TERRAIN-001-v6.glb",
+    "sha256": "fe4d0a492c554e0eaa0bf4932f663fe33f083e3e6007d66d5753f4687c9ce654",
+    "preview": [
+      "reports/asset-review/terrain-rebuild-v6/captures/01-overview-engine.png"
+    ],
+    "preview_kind": "Godot 4.7.2 viewport capture",
+    "status": "approved",
+    "approval_message": "approved v6 map,but clean again and make sure no bug when play",
+    "approval_date": "2026-10-27",
+    "bundle": "TRB6-BUNDLE-001 v6",
+    "integration_status": "integrated in san14-rts; exact approved bytes",
+    "integrated_file": "san14-rts/assets/map-v6/TRB6-TERRAIN-001-v6.glb"
+  },
+  {
+    "id": "TRB6-RIVER-001",
+    "version": 6,
+    "source": "Authored terrain-rebuild-v6; exact reviewed bytes",
+    "intended_use": "river of the authored map region",
+    "file": "reports/asset-review/terrain-rebuild-v6/assets/TRB6-RIVER-001-v6.glb",
+    "sha256": "97ac8f1293b31d4f1fe9a4a3b11d99c5597e9b079aa5815b6b8520d037144a7a",
+    "preview": [
+      "reports/asset-review/terrain-rebuild-v6/captures/02-city-river-engine.png"
+    ],
+    "preview_kind": "Godot 4.7.2 viewport capture",
+    "status": "approved",
+    "approval_message": "approved v6 map,but clean again and make sure no bug when play",
+    "approval_date": "2026-10-27",
+    "bundle": "TRB6-BUNDLE-001 v6",
+    "integration_status": "integrated in san14-rts; exact approved bytes",
+    "integrated_file": "san14-rts/assets/map-v6/TRB6-RIVER-001-v6.glb"
+  },
+  {
+    "id": "TRB6-FOREST-001",
+    "version": 6,
+    "source": "Authored terrain-rebuild-v6; exact reviewed bytes",
+    "intended_use": "forest of the authored map region",
+    "file": "reports/asset-review/terrain-rebuild-v6/assets/TRB6-FOREST-001-v6.glb",
+    "sha256": "f68edf61ec9035967e55e092f3e4f6848e4cd620aa8977c06b521464b61bad81",
+    "preview": [
+      "reports/asset-review/terrain-rebuild-v6/captures/03-ridge-forest-engine.png"
+    ],
+    "preview_kind": "Godot 4.7.2 viewport capture",
+    "status": "approved",
+    "approval_message": "approved v6 map,but clean again and make sure no bug when play",
+    "approval_date": "2026-10-27",
+    "bundle": "TRB6-BUNDLE-001 v6",
+    "integration_status": "integrated in san14-rts; exact approved bytes",
+    "integrated_file": "san14-rts/assets/map-v6/TRB6-FOREST-001-v6.glb"
+  },
+  {
+    "id": "TRB6-CITY-001",
+    "version": 6,
+    "source": "Authored terrain-rebuild-v6; exact reviewed bytes",
+    "intended_use": "city of the authored map region",
+    "file": "reports/asset-review/terrain-rebuild-v6/assets/TRB6-CITY-001-v6.glb",
+    "sha256": "c5eb628646dda3303d76095d4e1413fb828379183fbff61c6ae9de0edeb27f1e",
+    "preview": [
+      "reports/asset-review/terrain-rebuild-v6/captures/06-city-detail-engine.png"
+    ],
+    "preview_kind": "Godot 4.7.2 viewport capture",
+    "status": "approved",
+    "approval_message": "approved v6 map,but clean again and make sure no bug when play",
+    "approval_date": "2026-10-27",
+    "bundle": "TRB6-BUNDLE-001 v6",
+    "integration_status": "integrated in san14-rts; exact approved bytes",
+    "integrated_file": "san14-rts/assets/map-v6/TRB6-CITY-001-v6.glb"
+  },
+  {
+    "id": "TRB6-GRASS-001",
+    "version": 6,
+    "source": "Authored terrain-rebuild-v6; exact reviewed bytes",
+    "intended_use": "grass of the authored map region",
+    "file": "reports/asset-review/terrain-rebuild-v6/assets/TRB6-GRASS-001-v6.glb",
+    "sha256": "98e2528364d9040ffcb37dbb75be51186a33f8d359adf65a02218a088a25da6e",
+    "preview": [
+      "reports/asset-review/terrain-rebuild-v6/captures/09-meadow-detail-engine.png"
+    ],
+    "preview_kind": "Godot 4.7.2 viewport capture",
+    "status": "approved",
+    "approval_message": "approved v6 map,but clean again and make sure no bug when play",
+    "approval_date": "2026-10-27",
+    "bundle": "TRB6-BUNDLE-001 v6",
+    "integration_status": "integrated in san14-rts; exact approved bytes",
+    "integrated_file": "san14-rts/assets/map-v6/TRB6-GRASS-001-v6.glb"
+  },
+  {
+    "id": "TRB6-HOUSES-001",
+    "version": 6,
+    "source": "Authored terrain-rebuild-v6; exact reviewed bytes",
+    "intended_use": "houses of the authored map region",
+    "file": "reports/asset-review/terrain-rebuild-v6/assets/TRB6-HOUSES-001-v6.glb",
+    "sha256": "55cd76a4a962c6d5eeeddbd3a70987804b56d198d19ad924d9102597c324ac5b",
+    "preview": [
+      "reports/asset-review/terrain-rebuild-v6/captures/07-house-detail-engine.png"
+    ],
+    "preview_kind": "Godot 4.7.2 viewport capture",
+    "status": "approved",
+    "approval_message": "approved v6 map,but clean again and make sure no bug when play",
+    "approval_date": "2026-10-27",
+    "bundle": "TRB6-BUNDLE-001 v6",
+    "integration_status": "integrated in san14-rts; exact approved bytes",
+    "integrated_file": "san14-rts/assets/map-v6/TRB6-HOUSES-001-v6.glb"
+  },
+  {
+    "id": "TRB6-TEX-TERRAIN-ALBEDO",
+    "version": 6,
+    "source": "Authored terrain-rebuild-v6; exact reviewed bytes",
+    "intended_use": "terrain-albedo map material texture",
+    "file": "reports/asset-review/terrain-rebuild-v6/assets/TRB6-TERRAIN-001-albedo.png",
+    "sha256": "05d80d1a71432ad7ef98d329124dd869e97a46e4b447a4ff27fba957d424ce61",
+    "preview": [
+      "reports/asset-review/terrain-rebuild-v6/captures/01-overview-engine.png"
+    ],
+    "preview_kind": "Godot 4.7.2 viewport capture",
+    "status": "approved",
+    "approval_message": "approved v6 map,but clean again and make sure no bug when play",
+    "approval_date": "2026-10-27",
+    "bundle": "TRB6-BUNDLE-001 v6",
+    "integration_status": "integrated in san14-rts; exact approved bytes",
+    "integrated_file": "san14-rts/assets/map-v6/TRB6-TERRAIN-001-albedo.png"
+  },
+  {
+    "id": "TRB6-TEX-TERRAIN-NORMAL",
+    "version": 6,
+    "source": "Authored terrain-rebuild-v6; exact reviewed bytes",
+    "intended_use": "terrain-normal map material texture",
+    "file": "reports/asset-review/terrain-rebuild-v6/assets/TRB6-TERRAIN-001-normal.png",
+    "sha256": "7f128dc493d033faf96d90ea93edc621f6ec4425e5995dae8cbaf2f299c24135",
+    "preview": [
+      "reports/asset-review/terrain-rebuild-v6/captures/01-overview-engine.png"
+    ],
+    "preview_kind": "Godot 4.7.2 viewport capture",
+    "status": "approved",
+    "approval_message": "approved v6 map,but clean again and make sure no bug when play",
+    "approval_date": "2026-10-27",
+    "bundle": "TRB6-BUNDLE-001 v6",
+    "integration_status": "integrated in san14-rts; exact approved bytes",
+    "integrated_file": "san14-rts/assets/map-v6/TRB6-TERRAIN-001-normal.png"
+  },
+  {
+    "id": "TRB6-TEX-TERRAIN-ROUGH",
+    "version": 6,
+    "source": "Authored terrain-rebuild-v6; exact reviewed bytes",
+    "intended_use": "terrain-rough map material texture",
+    "file": "reports/asset-review/terrain-rebuild-v6/assets/TRB6-TERRAIN-001-roughness.png",
+    "sha256": "5b131507fe93c5fb0522a000852f54e1c95f92aee0f55122c601e3e151724d7c",
+    "preview": [
+      "reports/asset-review/terrain-rebuild-v6/captures/01-overview-engine.png"
+    ],
+    "preview_kind": "Godot 4.7.2 viewport capture",
+    "status": "approved",
+    "approval_message": "approved v6 map,but clean again and make sure no bug when play",
+    "approval_date": "2026-10-27",
+    "bundle": "TRB6-BUNDLE-001 v6",
+    "integration_status": "integrated in san14-rts; exact approved bytes",
+    "integrated_file": "san14-rts/assets/map-v6/TRB6-TERRAIN-001-roughness.png"
+  },
+  {
+    "id": "TRB6-TEX-RIVER-DEPTH",
+    "version": 6,
+    "source": "Authored terrain-rebuild-v6; exact reviewed bytes",
+    "intended_use": "river-depth map material texture",
+    "file": "reports/asset-review/terrain-rebuild-v6/assets/TRB6-RIVER-001-depth.png",
+    "sha256": "bb6ed7392a29a31dbce458309dfc5bd86def4e3fba6464ecbc8b416d49e499fe",
+    "preview": [
+      "reports/asset-review/terrain-rebuild-v6/captures/01-overview-engine.png"
+    ],
+    "preview_kind": "Godot 4.7.2 viewport capture",
+    "status": "approved",
+    "approval_message": "approved v6 map,but clean again and make sure no bug when play",
+    "approval_date": "2026-10-27",
+    "bundle": "TRB6-BUNDLE-001 v6",
+    "integration_status": "integrated in san14-rts; exact approved bytes",
+    "integrated_file": "san14-rts/assets/map-v6/TRB6-RIVER-001-depth.png"
+  },
+  {
+    "id": "TRB6-TEX-GRASS-CARD",
+    "version": 6,
+    "source": "Authored terrain-rebuild-v6; exact reviewed bytes",
+    "intended_use": "grass-card map material texture",
+    "file": "reports/asset-review/terrain-rebuild-v6/assets/grass-card.png",
+    "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08",
+    "preview": [
+      "reports/asset-review/terrain-rebuild-v6/captures/01-overview-engine.png"
+    ],
+    "preview_kind": "Godot 4.7.2 viewport capture",
+    "status": "approved",
+    "approval_message": "approved v6 map,but clean again and make sure no bug when play",
+    "approval_date": "2026-10-27",
+    "bundle": "TRB6-BUNDLE-001 v6",
+    "integration_status": "integrated in san14-rts; exact approved bytes",
+    "integrated_file": "san14-rts/assets/map-v6/grass-card.png"
+  },
+  {
+    "id": "TRB6-TEX-GRASS-DETAIL",
+    "version": 6,
+    "source": "Authored terrain-rebuild-v6; exact reviewed bytes",
+    "intended_use": "grass-detail map material texture",
+    "file": "reports/asset-review/terrain-rebuild-v6/assets/grass-detail.png",
+    "sha256": "777568a34170b39c0f294df27ae65fe85e4ae8781487cb4f66ee9c3e4bbd6601",
+    "preview": [
+      "reports/asset-review/terrain-rebuild-v6/captures/01-overview-engine.png"
+    ],
+    "preview_kind": "Godot 4.7.2 viewport capture",
+    "status": "approved",
+    "approval_message": "approved v6 map,but clean again and make sure no bug when play",
+    "approval_date": "2026-10-27",
+    "bundle": "TRB6-BUNDLE-001 v6",
+    "integration_status": "integrated in san14-rts; exact approved bytes",
+    "integrated_file": "san14-rts/assets/map-v6/grass-detail.png"
+  },
+  {
+    "id": "TRB6-TEX-GRAIN",
+    "version": 6,
+    "source": "Authored terrain-rebuild-v6; exact reviewed bytes",
+    "intended_use": "grain map material texture",
+    "file": "reports/asset-review/terrain-rebuild-v6/assets/grain.png",
+    "sha256": "54e8f0967d0dd7d25c13262e85e68ca31eb2f7213b7ed7436b25cc673ecce72e",
+    "preview": [
+      "reports/asset-review/terrain-rebuild-v6/captures/01-overview-engine.png"
+    ],
+    "preview_kind": "Godot 4.7.2 viewport capture",
+    "status": "approved",
+    "approval_message": "approved v6 map,but clean again and make sure no bug when play",
+    "approval_date": "2026-10-27",
+    "bundle": "TRB6-BUNDLE-001 v6",
+    "integration_status": "integrated in san14-rts; exact approved bytes",
+    "integrated_file": "san14-rts/assets/map-v6/grain.png"
+  },
+  {
+    "id": "TRB6-TEX-LEAF-CLUSTER",
+    "version": 6,
+    "source": "Authored terrain-rebuild-v6; exact reviewed bytes",
+    "intended_use": "leaf-cluster map material texture",
+    "file": "reports/asset-review/terrain-rebuild-v6/assets/leaf-cluster.png",
+    "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277",
+    "preview": [
+      "reports/asset-review/terrain-rebuild-v6/captures/01-overview-engine.png"
+    ],
+    "preview_kind": "Godot 4.7.2 viewport capture",
+    "status": "approved",
+    "approval_message": "approved v6 map,but clean again and make sure no bug when play",
+    "approval_date": "2026-10-27",
+    "bundle": "TRB6-BUNDLE-001 v6",
+    "integration_status": "integrated in san14-rts; exact approved bytes",
+    "integrated_file": "san14-rts/assets/map-v6/leaf-cluster.png"
+  },
+  {
+    "id": "TRB6-MAT-TERRAIN",
+    "version": 6,
+    "source": "Authored terrain-rebuild-v6; exact reviewed bytes",
+    "intended_use": "terrain map rendering material",
+    "file": "reports/asset-review/terrain-rebuild-v6/terrain.gdshader",
+    "sha256": "e730e3cfff1c750257c684dfa0651ca1651d5436813ae5d4a9404e9fd027af83",
+    "preview": [
+      "reports/asset-review/terrain-rebuild-v6/captures/01-overview-engine.png"
+    ],
+    "preview_kind": "Godot 4.7.2 viewport capture",
+    "status": "approved",
+    "approval_message": "approved v6 map,but clean again and make sure no bug when play",
+    "approval_date": "2026-10-27",
+    "bundle": "TRB6-BUNDLE-001 v6",
+    "integration_status": "integrated in san14-rts; exact approved bytes",
+    "integrated_file": "san14-rts/assets/map-v6/terrain.gdshader"
+  },
+  {
+    "id": "TRB6-MAT-RIVER",
+    "version": 6,
+    "source": "Authored terrain-rebuild-v6; exact reviewed bytes",
+    "intended_use": "river map rendering material",
+    "file": "reports/asset-review/terrain-rebuild-v6/river.gdshader",
+    "sha256": "77d0476560cc5976b99ce43ead73655d2afd205bd73c63ffbc1061c1514edf61",
+    "preview": [
+      "reports/asset-review/terrain-rebuild-v6/captures/01-overview-engine.png"
+    ],
+    "preview_kind": "Godot 4.7.2 viewport capture",
+    "status": "approved",
+    "approval_message": "approved v6 map,but clean again and make sure no bug when play",
+    "approval_date": "2026-10-27",
+    "bundle": "TRB6-BUNDLE-001 v6",
+    "integration_status": "integrated in san14-rts; exact approved bytes",
+    "integrated_file": "san14-rts/assets/map-v6/river.gdshader"
+  },
+  {
+    "id": "TRB6-MAT-PROP",
+    "version": 6,
+    "source": "Authored terrain-rebuild-v6; exact reviewed bytes",
+    "intended_use": "prop map rendering material",
+    "file": "reports/asset-review/terrain-rebuild-v6/prop.gdshader",
+    "sha256": "1780b4d7fb462b4f8cd2e6bb1c259dc21d60195f8d01579116efe9ca6b9d69c7",
+    "preview": [
+      "reports/asset-review/terrain-rebuild-v6/captures/01-overview-engine.png"
+    ],
+    "preview_kind": "Godot 4.7.2 viewport capture",
+    "status": "approved",
+    "approval_message": "approved v6 map,but clean again and make sure no bug when play",
+    "approval_date": "2026-10-27",
+    "bundle": "TRB6-BUNDLE-001 v6",
+    "integration_status": "integrated in san14-rts; exact approved bytes",
+    "integrated_file": "san14-rts/assets/map-v6/prop.gdshader"
+  },
+  {
+    "id": "TRB6-MAT-GRASS",
+    "version": 6,
+    "source": "Authored terrain-rebuild-v6; exact reviewed bytes",
+    "intended_use": "grass map rendering material",
+    "file": "reports/asset-review/terrain-rebuild-v6/grass.gdshader",
+    "sha256": "9db7302e434f994d088930a87d0bb3a021e80cd6e3810af7041bb82a04a8cd62",
+    "preview": [
+      "reports/asset-review/terrain-rebuild-v6/captures/01-overview-engine.png"
+    ],
+    "preview_kind": "Godot 4.7.2 viewport capture",
+    "status": "approved",
+    "approval_message": "approved v6 map,but clean again and make sure no bug when play",
+    "approval_date": "2026-10-27",
+    "bundle": "TRB6-BUNDLE-001 v6",
+    "integration_status": "integrated in san14-rts; exact approved bytes",
+    "integrated_file": "san14-rts/assets/map-v6/grass.gdshader"
+  },
+  {
+    "id": "TRB6-MAT-FOLIAGE",
+    "version": 6,
+    "source": "Authored terrain-rebuild-v6; exact reviewed bytes",
+    "intended_use": "foliage map rendering material",
+    "file": "reports/asset-review/terrain-rebuild-v6/foliage.gdshader",
+    "sha256": "e4f0a336cca04992cc94c87660b0b0a5328ce374f4794b93d849bf7dbbd4fbd8",
+    "preview": [
+      "reports/asset-review/terrain-rebuild-v6/captures/01-overview-engine.png"
+    ],
+    "preview_kind": "Godot 4.7.2 viewport capture",
+    "status": "approved",
+    "approval_message": "approved v6 map,but clean again and make sure no bug when play",
+    "approval_date": "2026-10-27",
+    "bundle": "TRB6-BUNDLE-001 v6",
+    "integration_status": "integrated in san14-rts; exact approved bytes",
+    "integrated_file": "san14-rts/assets/map-v6/foliage.gdshader"
+  }
+]

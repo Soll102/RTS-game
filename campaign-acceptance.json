@@ -1,0 +1,16 @@
+{
+  "status": "accepted_as_is",
+  "approval_date": "2026-11-03",
+  "approval_message": "không cần nữa, chấp nhận thế này là được. xóa các bản cũ, asset không dùng, test cũ",
+  "scope": "Current v3 gameplay/models/combat accepted as-is; replace old installed builds and remove unused assets/old tests.",
+  "source_bundle": "RTS-MELEE-CONTACT-REVIEW-001 v3",
+  "source_freeze_sha256": "b00eee2277d9a8ea41715083d4dc92d6c1f4f30df5c560c0d2babef9d6e3e75d",
+  "preserved_save_directory": "RTS-Three-Kingdoms-Campaign-v1",
+  "packaging_changes": [
+    "Remove obsolete assets/test scenes and old demo launcher",
+    "Main scene renamed",
+    "Integrity gate follows retained files instead of deleted review dependencies"
+  ],
+  "gameplay_balance_change": false,
+  "source_model_texture_animation_changes": false
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "TRB6-TERRAIN-001",
+    "type": "TRB6-TERRAIN-001",
+    "file": "res://assets/map-v6/TRB6-TERRAIN-001-v8.glb"
+  },
+  {
+    "id": "TRB6-RIVER-001",
+    "type": "TRB6-RIVER-001",
+    "file": "res://assets/map-v6/TRB6-RIVER-001-v6.glb"
+  },
+  {
+    "id": "TRB6-FOREST-001",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB6-FOREST-001-v8.glb"
+  },
+  {
+    "id": "TRB6-GRASS-001",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB6-GRASS-001-v8.glb"
+  },
+  {
+    "id": "TRB6-CITY-001",
+    "type": "TRB6-CITY-001",
+    "file": "res://assets/map-v6/TRB6-CITY-001-v6.glb"
+  },
+  {
+    "id": "TRB6-HOUSES-001",
+    "type": "TRB6-HOUSES-001",
+    "file": "res://assets/map-v6/TRB6-HOUSES-001-v8.glb"
+  },
+  {
+    "id": "TRB7-CITY-WEST-001",
+    "type": "TRB6-CITY-001",
+    "file": "res://assets/map-v6/TRB7-CITY-WEST-001-v8.glb"
+  },
+  {
+    "id": "TRB7-CITY-EAST-001",
+    "type": "TRB6-CITY-001",
+    "file": "res://assets/map-v6/TRB7-CITY-EAST-001-v8.glb"
+  },
+  {
+    "id": "TRB8-CITY-NORTHWEST-001",
+    "type": "TRB6-CITY-001",
+    "file": "res://assets/map-v6/TRB8-CITY-NORTHWEST-001-v8.glb"
+  },
+  {
+    "id": "TRB8-CITY-INLAND-001",
+    "type": "TRB6-CITY-001",
+    "file": "res://assets/map-v6/TRB8-CITY-INLAND-001-v8.glb"
+  },
+  {
+    "id": "TRB8-CITY-EASTWARD-001",
+    "type": "TRB6-CITY-001",
+    "file": "res://assets/map-v6/TRB8-CITY-EASTWARD-001-v8.glb"
+  },
+  {
+    "id": "TRB8-CITY-NORTH-001",
+    "type": "TRB6-CITY-001",
+    "file": "res://assets/map-v6/TRB8-CITY-NORTH-001-v8.glb"
+  },
+  {
+    "id": "TRB8-CITY-PASS-001",
+    "type": "TRB6-CITY-001",
+    "file": "res://assets/map-v6/TRB8-CITY-PASS-001-v8.glb"
+  },
+  {
+    "id": "TRB8-VILLAGE-WEST-001",
+    "type": "TRB6-CITY-001",
+    "file": "res://assets/map-v6/TRB8-VILLAGE-WEST-001-v8.glb"
+  },
+  {
+    "id": "TRB8-VILLAGE-FORD-001",
+    "type": "TRB6-CITY-001",
+    "file": "res://assets/map-v6/TRB8-VILLAGE-FORD-001-v8.glb"
+  },
+  {
+    "id": "TRB8-VILLAGE-MEADOW-001",
+    "type": "TRB6-CITY-001",
+    "file": "res://assets/map-v6/TRB8-VILLAGE-MEADOW-001-v8.glb"
+  }
+]

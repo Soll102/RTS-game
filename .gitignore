@@ -1,0 +1,14 @@
+# Godot import/cache data
+.godot/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Generated review output
+validation/
+captures/

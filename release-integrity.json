@@ -1,0 +1,1672 @@
+{
+  "status": "requested_skill_motion_redesign",
+  "scope": "installed_campaign",
+  "date": "2026-11-08",
+  "files": [
+    {
+      "file": "Launch-Game.cmd",
+      "sha256": "c67e867ec5a255b23e488c0694128cb0535990bdede288e21322326b81d2b3a5"
+    },
+    {
+      "file": "Launch-Game.ps1",
+      "sha256": "21612ea414ec7335ba9ea684d029e3328c937d4568ea20d7b84b265b8a3bb609"
+    },
+    {
+      "file": "assets/ROTK14-CHARACTEREDITOR-D3C18F06-SKIN-DISCOVERY-v1.glb",
+      "sha256": "937670036548a744275a5a1cf9ac5e2205cd351032e9089ebbdfce4c783d912f"
+    },
+    {
+      "file": "assets/ROTK14-CHARACTEREDITOR-D3C18F06-SKIN-DISCOVERY-v1_0.png",
+      "sha256": "68c8eb71c4af388a7d1ca7836ccc63ad6aa1ccac736f22304faf024d0e7b5c5b"
+    },
+    {
+      "file": "assets/city-cleanup/RTS-C1-CITY-CLEAN-001-v1.glb",
+      "sha256": "bd4583ace364ece68cbe923e05b3aee9e73982f319489bdb295ef276c2802a27"
+    },
+    {
+      "file": "assets/city-cleanup/RTS-C1-HOUSES-CLEAN-001-v1.glb",
+      "sha256": "72cb64da4c97039428d2619752ff288962693194a154500a3722b75ca134d622"
+    },
+    {
+      "file": "assets/map-v6/TRB6-RIVER-001-depth.png",
+      "sha256": "bb6ed7392a29a31dbce458309dfc5bd86def4e3fba6464ecbc8b416d49e499fe"
+    },
+    {
+      "file": "assets/map-v6/TRB6-TERRAIN-001-albedo.png",
+      "sha256": "05d80d1a71432ad7ef98d329124dd869e97a46e4b447a4ff27fba957d424ce61"
+    },
+    {
+      "file": "assets/map-v6/TRB6-TERRAIN-001-normal.png",
+      "sha256": "7f128dc493d033faf96d90ea93edc621f6ec4425e5995dae8cbaf2f299c24135"
+    },
+    {
+      "file": "assets/map-v6/TRB6-TERRAIN-001-roughness.png",
+      "sha256": "5b131507fe93c5fb0522a000852f54e1c95f92aee0f55122c601e3e151724d7c"
+    },
+    {
+      "file": "assets/map-v6/approved-assets.json",
+      "sha256": "4c060f0db30786f01396e75589b7e06e50a7eab203dfdd672cd93b8d41a9e541"
+    },
+    {
+      "file": "assets/map-v6/foliage.gdshader",
+      "sha256": "e4f0a336cca04992cc94c87660b0b0a5328ce374f4794b93d849bf7dbbd4fbd8"
+    },
+    {
+      "file": "assets/map-v6/grain.png",
+      "sha256": "54e8f0967d0dd7d25c13262e85e68ca31eb2f7213b7ed7436b25cc673ecce72e"
+    },
+    {
+      "file": "assets/map-v6/grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v6/grass-detail.png",
+      "sha256": "777568a34170b39c0f294df27ae65fe85e4ae8781487cb4f66ee9c3e4bbd6601"
+    },
+    {
+      "file": "assets/map-v6/grass.gdshader",
+      "sha256": "9db7302e434f994d088930a87d0bb3a021e80cd6e3810af7041bb82a04a8cd62"
+    },
+    {
+      "file": "assets/map-v6/leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v6/prop.gdshader",
+      "sha256": "1780b4d7fb462b4f8cd2e6bb1c259dc21d60195f8d01579116efe9ca6b9d69c7"
+    },
+    {
+      "file": "assets/map-v6/river.gdshader",
+      "sha256": "77d0476560cc5976b99ce43ead73655d2afd205bd73c63ffbc1061c1514edf61"
+    },
+    {
+      "file": "assets/map-v6/terrain-heights.f32",
+      "sha256": "ed4dc3ea6d5e7b198c859f0bdf59c3b81902582a666c7acac4e04ab6c07e89b4"
+    },
+    {
+      "file": "assets/map-v6/terrain.gdshader",
+      "sha256": "e730e3cfff1c750257c684dfa0651ca1651d5436813ae5d4a9404e9fd027af83"
+    },
+    {
+      "file": "assets/map-v8/TRB6-RIVER-001-depth.png",
+      "sha256": "bb6ed7392a29a31dbce458309dfc5bd86def4e3fba6464ecbc8b416d49e499fe"
+    },
+    {
+      "file": "assets/map-v8/TRB6-RIVER-001-v6.glb",
+      "sha256": "97ac8f1293b31d4f1fe9a4a3b11d99c5597e9b079aa5815b6b8520d037144a7a"
+    },
+    {
+      "file": "assets/map-v8/TRB6-TERRAIN-001-albedo-v8.png",
+      "sha256": "13317d24c4709e1f4203f81928dc98c5427b970038afdd9fc12e0630b829a344"
+    },
+    {
+      "file": "assets/map-v8/TRB6-TERRAIN-001-normal-v8.png",
+      "sha256": "d4e35f627cc57d4ae802de03f472a891304b182cf0d5af251e2426999418efc0"
+    },
+    {
+      "file": "assets/map-v8/TRB6-TERRAIN-001-roughness.png",
+      "sha256": "5b131507fe93c5fb0522a000852f54e1c95f92aee0f55122c601e3e151724d7c"
+    },
+    {
+      "file": "assets/map-v8/TRB7-CITY-EAST-001-v8.glb",
+      "sha256": "46edcc61fa0099d02b050b2a2782e0f24b58e5a333905eaa947da4785b12fcbb"
+    },
+    {
+      "file": "assets/map-v8/TRB7-CITY-WEST-001-v8.glb",
+      "sha256": "51fccd3eb2a8fab2abc13552df64137d610d65251d40933b80deb264bd5e2d36"
+    },
+    {
+      "file": "assets/map-v8/TRB8-CITY-EASTWARD-001-v8.glb",
+      "sha256": "f1bf004ad1ce9688f7dbd1c7da90191b74719ae7d9a55799745eeebb77e9b22d"
+    },
+    {
+      "file": "assets/map-v8/TRB8-CITY-INLAND-001-v8.glb",
+      "sha256": "5656461d1719e31954a3f1d91c3d301241e8917d08403a34b7560d3908d07b0f"
+    },
+    {
+      "file": "assets/map-v8/TRB8-CITY-NORTH-001-v8.glb",
+      "sha256": "78c2b39b328b4ea68e7511b68afa480d075615d1fbfcd246d285b3a92e58f733"
+    },
+    {
+      "file": "assets/map-v8/TRB8-CITY-NORTHWEST-001-v8.glb",
+      "sha256": "e1101f37aa71bfd28979dc9415807c633f2ed53472c411027bb6d22a556bd024"
+    },
+    {
+      "file": "assets/map-v8/TRB8-CITY-PASS-001-v8.glb",
+      "sha256": "206e4e5cef8e0e932ea9538f0c1f48c2046fe3de21886cb6116c63b30c6299cb"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-0-0.glb",
+      "sha256": "e6cf83a75fec7f48a598f3362d72b8e2327f2c55a3089524bf4325823482734f"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-0-0_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-0-1.glb",
+      "sha256": "83bebbdef0741dfa53a08c6c7a1206fe888cbb0708b9c5ab7d56e8516fc06484"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-0-1_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-0-2.glb",
+      "sha256": "e5e3476e9fa90aa36aeb441683a601a7c39770699065cb3944d32f536c286e30"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-0-2_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-0-3.glb",
+      "sha256": "8ea3ac65333f0ef511b34fe1245837a6404e099005518c87acb834cd5e350fad"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-0-3_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-0-4.glb",
+      "sha256": "2c26fc7b0473a58e6260a729c356df53c1573ba144a0acbb473f6288e9eac83b"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-0-4_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-0-5.glb",
+      "sha256": "0830ddbd2940d104b704e8dd920976a421f5447d8cac123a5f99ef4e83f32988"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-0-5_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-0-6.glb",
+      "sha256": "8e97f2b91d4d49d374af7d0a8080d708bcdd71a868e2e6b3ee31e06204bac8fc"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-0-6_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-1-0.glb",
+      "sha256": "10f7fd362410e1cba1de9759e6de38956ebb449043b5705e719bbe328bed0007"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-1-0_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-1-1.glb",
+      "sha256": "2f5625b608f9a1822acf694abba9bfc299d901ffe2a8f3d503ae679ac6c2be71"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-1-1_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-1-2.glb",
+      "sha256": "e7dbc684bdd6e7c72e5d801dc27a138e6b9e2d022fec5afdcf8c1cc01d2ae206"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-1-2_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-1-3.glb",
+      "sha256": "0853a9d1e96dad3a85c004c35c92b69d8740751d206fcc6147e58c09893123ac"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-1-3_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-1-4.glb",
+      "sha256": "fedb642e2f564f7abd5e735e91b96a1f217315ec59d0fb071f41a3de750bcd5c"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-1-4_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-1-5.glb",
+      "sha256": "9699307416c29613cbfaf15cddad32ac6e52491a51c6cb259023ef3065c1608e"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-1-5_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-2-0.glb",
+      "sha256": "62203178c2eef7b632f6b074be0c3f7aa0cd54f49ecb7a61a99d98e80b1ad08f"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-2-0_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-2-1.glb",
+      "sha256": "9be5f5a92656321a98873f66b43a3cbc0062169d92bf90d8f917b08c991553cf"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-2-1_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-2-2.glb",
+      "sha256": "35b2177a12500e2828a75191ae5adfebb5720588d7bddefac231287057c37699"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-2-2_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-2-3.glb",
+      "sha256": "3509068e156e83fd6d8b598649af523cd4a7b4bb8581fdecd48db5a7a86e0ad5"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-2-3_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-2-4.glb",
+      "sha256": "eb49df1e95947396d0f65eb203084597d79b08a3da5003ecc53de790f66d0cec"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-2-4_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-2-5.glb",
+      "sha256": "e65660bf5e7bac0a521eaa6c8eb32f189dc90fa3433a4fb743ffc2d5e8dcc51b"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-2-5_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-2-6.glb",
+      "sha256": "b742105df468c8a3652bb72423fcf65a88d34f5fd2ed7c41fdf2af2af6996714"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-2-6_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-3-0.glb",
+      "sha256": "15d7944f730dba1a0c8638379f77694d16365e405f0dc8311485c81c9d09db51"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-3-0_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-3-1.glb",
+      "sha256": "72bd7f9886a8c5184f31ccc2f8330b9ca78fc67a8ab0224a203257a189daba1d"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-3-1_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-3-2.glb",
+      "sha256": "29794f4706d471f3c67a4df57250f299d5ca4242c72ca5dbf0b35df14b1b8983"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-3-2_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-3-3.glb",
+      "sha256": "0f348fa4c3697da8abe0f99718b6379bd8cda04c18ebd63b87e5c4036a4a48d1"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-3-3_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-3-4.glb",
+      "sha256": "c10c8374ead45df2b24abac826fe26a89637ac29eca54fc7bfee7d85d7fdb6d0"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-3-4_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-3-5.glb",
+      "sha256": "cd31f79a434225b8c9415f3f5289ece2a1dc460588b3a11e3ee413f31fa9e586"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-3-5_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-3-6.glb",
+      "sha256": "f1d0d63949f020310cb6d00d1600a786f827531b5b83f86d412ba646603632a4"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-3-6_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-4-0.glb",
+      "sha256": "71ab572a8a3951cc5ec0a6b46ad8d1ebd87b91b1ec616cebc924166e4c4e09dd"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-4-0_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-4-1.glb",
+      "sha256": "7d870b4487559f8b38012c7b5fb51bd3686d4bdb6f27b9aa3bcc8fd1d9f1c6c9"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-4-1_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-4-2.glb",
+      "sha256": "86553cb633c95b5383e5703ba59ec13f2d456089a450a2a27e70e1af82f9e119"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-4-2_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-4-5.glb",
+      "sha256": "e51c8ea1aa2f6887d6883641a9ae858fe62a53ceb820cf8848f34cece7205a6d"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-4-5_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-4-6.glb",
+      "sha256": "d4422b1ad60e638f52f1e7d004e96bc4af3e5fc2521d1b29308a41b394d7bd2d"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-4-6_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-5-0.glb",
+      "sha256": "5ef9cb6d0a446701abe562bb4dc1b5298a57e949e453de71ec9cf04346678156"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-5-0_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-5-1.glb",
+      "sha256": "3142b0c783df173e424e809faf0a20cb83be9c68d2c13f9966b1623c259abd59"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-5-1_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-5-3.glb",
+      "sha256": "74b904136df40a2490a3ab2691eaa00f7f92bc510d40d646bcd09432900872c3"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-5-3_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-5-4.glb",
+      "sha256": "4b06296e140d3e9050ba6135d44d25f0354bedcad6be8530bdaf4fd235a2d6c8"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-5-4_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-5-5.glb",
+      "sha256": "43749f5445d15afa2e6a10d3eeb255f6cabd8fd39ff0e4d304d15d43d10f616f"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-5-5_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-5-6.glb",
+      "sha256": "2da79e7af091b9bc2054dedc3bf596e52b6c7842c2c05a59f4c7d46ac112dae5"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-5-6_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-6-0.glb",
+      "sha256": "6e2a9b49ed8aa75975768c5c1bf5740ccad0a8c9e08b1549cf021f9ac93db579"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-6-0_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-6-1.glb",
+      "sha256": "8325e51cd2bf84b08baa7229377f084281abc17cd0e91bea85fce70b62e1eb1b"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-6-1_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-6-2.glb",
+      "sha256": "00406a3d75b814608b4ac96974efd57cde0d7905c23eac63281cd38bba58f505"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-6-2_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-6-3.glb",
+      "sha256": "0389b6bdf3589c0795670553fc1b7ce2dc6454d094c138a3892098deef38dd1b"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-6-3_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-6-4.glb",
+      "sha256": "fd349b9da37ad5ee952672e5c8a21371d10c71e1584fbc5fbf4bebd636dbe338"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-6-4_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-6-5.glb",
+      "sha256": "19ed1be2eea91832355c0db9c80c4de373677a1e68e5b99fe799a81cf1529a72"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-6-5_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-6-6.glb",
+      "sha256": "da1f71b87559ef18b30895a5a608d42cd7979c57398e9c875b5358233af6341f"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-6-6_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-7-0.glb",
+      "sha256": "cff731f48910144876af757c1a92d8afc7c2f7491cd7e414ef1c197b372ee673"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-7-0_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-7-1.glb",
+      "sha256": "e13ed9a1fce5e48872efbe3bebe5bef4de5e2e223dc9e23a18bd8c9034a2fd12"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-7-1_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-7-2.glb",
+      "sha256": "30b72bf2eb0d5065c122177d6fa7fd49d34ffcc2a7c22561a7daa5f9e92092cc"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-7-2_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-7-4.glb",
+      "sha256": "115484264238c127b3f6d4825a3157427a323bbf24c61a0b3aeaf4da7cb278d8"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-7-4_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-7-5.glb",
+      "sha256": "ecdd69483873bdc1d3db30f03078ad3226583b21c3360d16326c37a3a354e06c"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-7-5_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-7-6.glb",
+      "sha256": "df2081264da84ac700c7e43065ab52d3e0a68e25fcb5377c9c658224666290a3"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-7-6_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-8-1.glb",
+      "sha256": "debc9b21463ab64ff4cbfe0c0195f67f7b8bac34104044d90dc4320335811c3c"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-8-1_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-8-2.glb",
+      "sha256": "4a9f73938f90d3af5b6e0765229c97141799b165a991e2ba7a32551b374b4b11"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-8-2_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-8-3.glb",
+      "sha256": "bb0566a4069385f39bb632add8b8e8590a3d16529b03498fc005a2c631022248"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-8-3_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-8-4.glb",
+      "sha256": "6c5e7fbe7916fb92327f4a98496fc3ee66ee7c4512602b4df6206e8ad197feb1"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-8-4_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-8-5.glb",
+      "sha256": "860e4c2e369cec6306534f4e3328e9d3274d3650c83a13205cfa25b4f7d7eb30"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-8-5_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-8-6.glb",
+      "sha256": "f766742f72a5c7a8839d1e90a6c5e9f53a6611872a91fc3885dccc4859b90b44"
+    },
+    {
+      "file": "assets/map-v8/TRB8-FOREST-CHUNK-8-6_leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-0-0.glb",
+      "sha256": "1de783cdc73f475eb9b5657b7781c9fab16cc1d895ee390e70c2147671b0b8fc"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-0-0_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-0-1.glb",
+      "sha256": "bdaaeed076b01f7b23b026e9545fcc391ec02d1edab374f811e8025de1329c91"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-0-1_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-0-4.glb",
+      "sha256": "e15e9a9fc76a4cfe55a614b00040db2a57e53c07045e41f63ff682510034dd48"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-0-4_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-0-5.glb",
+      "sha256": "ee24cc31061efcfd7680c5a2f618c4a6d7f6bb2bd815149f6ea056acfef64d63"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-0-5_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-0-6.glb",
+      "sha256": "ac4171ab54b3a94f2657674e5b2c9b113294a0a750e7c4b073ee2b2501f82863"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-0-6_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-1-0.glb",
+      "sha256": "6d094b21cd7ee09f0fab4f5d2c1033f9c64f334e7307040463eb784b5b954727"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-1-0_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-1-1.glb",
+      "sha256": "4e8605cecca411eb74952bc2157296222c15e8cf7a2221b4e6ce0dc87c3e5797"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-1-1_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-1-2.glb",
+      "sha256": "c9278a5937f1486892e076d85214a943a4960ad66756496c9b7db0e7e6c071f1"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-1-2_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-1-3.glb",
+      "sha256": "ca250e903ddb341642e97417c24859d46ac0e3dd4482a970680ffc44890d5068"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-1-3_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-1-4.glb",
+      "sha256": "f0b6ab8b35580c80a5a3b65446da5305dc42f212033e56e1b4a047b16e8566fe"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-1-4_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-1-5.glb",
+      "sha256": "b6b6517df8d3b8a6eb392ae5c04e7f993d5d231cf5f71856535c6eb594026d08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-1-5_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-2-0.glb",
+      "sha256": "0406b152bb81242bb1a2f2e762ccdab6889a0a3da1842056a7193445b40f6b26"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-2-0_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-2-1.glb",
+      "sha256": "5f5fc013b0e28e476a24d33c6e5bfb7e5029988f70ea5fa627b468f47d21c401"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-2-1_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-2-2.glb",
+      "sha256": "fa57beeb833bf13fbd994e45507a3e36576dbd30b782e14b07887841bc088368"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-2-2_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-2-3.glb",
+      "sha256": "b7cdad0827593c2f1cd1e4dcc1f9763faf5f847712e54ccf6b1c08d72a747fef"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-2-3_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-2-4.glb",
+      "sha256": "7739da1b470e6166cff29087b3919da558f92a3ff07ba9892698b0931996ade6"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-2-4_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-2-5.glb",
+      "sha256": "8f2d15442eacbcc6a1833792aff429ac449957b0d9e3eca4de7bb36b1ea84f63"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-2-5_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-2-6.glb",
+      "sha256": "f21c9a4f49f6ad09e7257ec1332a93f37cad98a7c6bb5def74c10c0833e02a2a"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-2-6_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-3-0.glb",
+      "sha256": "4e42a40d2cf006c456afb6b8df1055bb4dc6e951221417e9343a8777038c6f21"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-3-0_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-3-1.glb",
+      "sha256": "032f61eeec7734bfece941b285f0694c05ea9fd34445f192c5999d6a6510759e"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-3-1_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-3-2.glb",
+      "sha256": "ceef10957ba35d543fcc9352e76b6fc07e8d881c538cfde257cb07e7a82d8949"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-3-2_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-3-3.glb",
+      "sha256": "ebf5c9604f28b295b68b0d48e0405114c905d7dfb4ead9e120f5da89638df6bc"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-3-3_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-3-4.glb",
+      "sha256": "a2b5dc68e5aa075fc8b6351a283e0dfb4113ade4a36ecbc3d31c6eb746992d21"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-3-4_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-3-5.glb",
+      "sha256": "d4d247a39f349708e556c9a8ca9d134321a6fe7138369408ee9916544c9253e6"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-3-5_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-3-6.glb",
+      "sha256": "9db0681e486743fdfd6d6f34fc9fb425787d6d93bd718dfe6ba1a26777951ae6"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-3-6_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-4-1.glb",
+      "sha256": "1b5c7c5e449e487e97e2a8db8ce401ebf8ad7e0bc9f69805dbe89c130aaede78"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-4-1_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-4-2.glb",
+      "sha256": "a3fc4bd36243906b8749550372e868ac933982031543c2c96ef6a2a389c7d030"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-4-2_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-4-3.glb",
+      "sha256": "39939490c914b67c592f3a7233c1eb977c32a59fc00e7772e2d04668a852b6ec"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-4-3_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-4-4.glb",
+      "sha256": "aad3df7dcb352e17334dffcf95ca8eb9ccaf56686c0ca35e4f6acd8a0034c773"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-4-4_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-4-5.glb",
+      "sha256": "1fb761520e5d9c454a6359eb54837e96ffcf68c6babae05ea7d040314b640f75"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-4-5_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-5-1.glb",
+      "sha256": "505c3f4f8ae18eb39daf6c24c148033a73475b6bd6ad87571bd608c4900ac464"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-5-1_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-5-2.glb",
+      "sha256": "33283a2685c1200da4aec02827c83e4f5d768b4ca62ece7ce8c7e5899313405f"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-5-2_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-5-3.glb",
+      "sha256": "879e280f5434f732d7bee82fbbf33487a14479ed825573abbf58d40015b36111"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-5-3_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-5-4.glb",
+      "sha256": "6036e36aafbd7f98ec0db073160f92c0a911426baad491a03919e05e08d77be3"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-5-4_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-5-5.glb",
+      "sha256": "f87365aceb03fbbe5f01a5f3078db145e9800cb9e90277c57794c636baa54078"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-5-5_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-5-6.glb",
+      "sha256": "aaa67e94a959725d60b74b1ff20d57b9d5fe053793ea89ae4e6224e0aea7c4e0"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-5-6_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-6-0.glb",
+      "sha256": "bfea9a0c5acff0e4f7cca66d1623c1bda28605cf7523be0091f81e71d3853143"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-6-0_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-6-1.glb",
+      "sha256": "8f339cd3c62380ceedd7d328f607571a4d8d3ba376074fd5529869340ec1d076"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-6-1_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-6-2.glb",
+      "sha256": "702fb3e091b7b260c7c446cb37d92c74642a3f959ec43e1e8af8e7191e1111db"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-6-2_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-6-3.glb",
+      "sha256": "2d82e0628df98d466eb84de42c4f9631240614ac76ab3fa1932b3a57228638cb"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-6-3_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-6-4.glb",
+      "sha256": "ddb63ab97ead331bfe0375c4b2491b59ae4e479c3072e55b506872bb8781dd78"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-6-4_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-6-5.glb",
+      "sha256": "9794e4f8d1569010a39f66fc8abb821688286e1bcec22394c8c1b7a867738084"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-6-5_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-6-6.glb",
+      "sha256": "580a4057976cb734808a8ae93b5f9ebb24b0554f0574e41fb9ea8291bdd64d60"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-6-6_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-7-0.glb",
+      "sha256": "f60c3f62c6ceb17e2a786e6f560adf6867c8754331eda26fd2939ec594008db5"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-7-0_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-7-1.glb",
+      "sha256": "8bd509e1b2a0290a0526e0722f43e68cd3ed0fbf0b8d3adc311101832ede358f"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-7-1_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-7-2.glb",
+      "sha256": "fc9f6773011c146a905ecb48d830fb2e0112857404d4eda7295f95819837b05a"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-7-2_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-7-3.glb",
+      "sha256": "328459028a3d1d73cbe8dc624194341733b3689fe3bf3fd5183781d3fdfd96cd"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-7-3_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-7-4.glb",
+      "sha256": "55bac47ece5e63dd8623ad68e5fbe1a20618032c2b55dbe9767974764e0dc24f"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-7-4_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-7-5.glb",
+      "sha256": "02baa3d82708f8b971de5ed2be33fbdaba4bf91a6f6697671ab3b8c7f4ff6fdf"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-7-5_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-8-2.glb",
+      "sha256": "50b233d8f43a7ae417683a050b206ced235c62a002983788b39ec6675d8f0fe4"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-8-2_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-8-3.glb",
+      "sha256": "bf7644ebe0cffbd0ad63417a5a9eb4e80eae41e30a7047e1d33c40957280e9f8"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-8-3_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-8-5.glb",
+      "sha256": "e54a0265330d298a2de43214a9a421fb8ba2ee38cef0274ba4b2a9a47e146790"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-8-5_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-8-6.glb",
+      "sha256": "53698c592ed00cd1747629b42fb194612281f471f77c6f1102f12cdea8f3849b"
+    },
+    {
+      "file": "assets/map-v8/TRB8-GRASS-CHUNK-8-6_grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/TRB8-VILLAGE-FORD-001-v8.glb",
+      "sha256": "34f577035283924e95515b0470ec4dfa4b77235e235575b6a73eb4e7d1c0f254"
+    },
+    {
+      "file": "assets/map-v8/TRB8-VILLAGE-MEADOW-001-v8.glb",
+      "sha256": "18ea299292a732f04e65a8550e8a93d19dca2c684bc386ddaf8ce48be4c601bf"
+    },
+    {
+      "file": "assets/map-v8/TRB8-VILLAGE-WEST-001-v8.glb",
+      "sha256": "2463c4b0378ab4281fdd607883ae66687f18c893b6353189132927e7df05bfc6"
+    },
+    {
+      "file": "assets/map-v8/approval.json",
+      "sha256": "ec1ba6605ede173ec1ccede72ecac46d2803bbb035aa30167066fb5fdf6afa04"
+    },
+    {
+      "file": "assets/map-v8/foliage.gdshader",
+      "sha256": "e4f0a336cca04992cc94c87660b0b0a5328ce374f4794b93d849bf7dbbd4fbd8"
+    },
+    {
+      "file": "assets/map-v8/grain.png",
+      "sha256": "54e8f0967d0dd7d25c13262e85e68ca31eb2f7213b7ed7436b25cc673ecce72e"
+    },
+    {
+      "file": "assets/map-v8/grass-card.png",
+      "sha256": "f1abf565e920f55df33cafb2d5aa24eee1254bb7ee00a931bef7b030ca864b08"
+    },
+    {
+      "file": "assets/map-v8/grass-detail.png",
+      "sha256": "777568a34170b39c0f294df27ae65fe85e4ae8781487cb4f66ee9c3e4bbd6601"
+    },
+    {
+      "file": "assets/map-v8/grass.gdshader",
+      "sha256": "9db7302e434f994d088930a87d0bb3a021e80cd6e3810af7041bb82a04a8cd62"
+    },
+    {
+      "file": "assets/map-v8/leaf-cluster.png",
+      "sha256": "6ed7b01951d915eea6b45d73fa9076bfc83e2da9e4104427bf9618541f777277"
+    },
+    {
+      "file": "assets/map-v8/prop.gdshader",
+      "sha256": "1780b4d7fb462b4f8cd2e6bb1c259dc21d60195f8d01579116efe9ca6b9d69c7"
+    },
+    {
+      "file": "assets/map-v8/river.gdshader",
+      "sha256": "77d0476560cc5976b99ce43ead73655d2afd205bd73c63ffbc1061c1514edf61"
+    },
+    {
+      "file": "assets/map-v8/scene-resources.json",
+      "sha256": "7edfef2e76aaf29f25be362658d4653c3c47f9480e22540500b4b07fe832fde4"
+    },
+    {
+      "file": "assets/map-v8/terrain-heights.f32",
+      "sha256": "730bb2b6d44e16cf89cc80206bb565fcd958416efe2a12ab664b7d9c3c4de8a6"
+    },
+    {
+      "file": "assets/map-v8/terrain.gdshader",
+      "sha256": "e730e3cfff1c750257c684dfa0651ca1651d5436813ae5d4a9404e9fd027af83"
+    },
+    {
+      "file": "assets/map-v8/vegetation-chunks.json",
+      "sha256": "e5818178e90da4f7e67441b4ffab528a9304fada3af09cc3790f9ada760f4c56"
+    },
+    {
+      "file": "assets/map-v8/views.json",
+      "sha256": "22cafb53a004b53e5c8eaae247ada0faaf51f098bbc93d1f34a4147dada38ff6"
+    },
+    {
+      "file": "assets/transport-v3/RTS-FERRY-001-v3.glb",
+      "sha256": "caa0840ea193ca81c57239308e1acd2743ba22c4542f19c02579562569a4191d"
+    },
+    {
+      "file": "assets/transport-v3/RTS-TRANSPORT-MAT-001-v1.tres",
+      "sha256": "67e0ad31cceaf3639733a32f573fab18576134e3ab1f942c1da4d420537800fd"
+    },
+    {
+      "file": "assets/transport-v3/approved-assets.json",
+      "sha256": "c4c8110c893bd09212c94c8d5fcf91dea80b8982cedc4fbae8ddf072b2aaa1bb"
+    },
+    {
+      "file": "attack-motion/animation-catalog.json",
+      "sha256": "000c087cccd61f6cbc3d44b32b39f6a58c917c082d779f7f22f90f0ad70997e5"
+    },
+    {
+      "file": "attack-motion/clips/RTS-ROTK14-D3C18F06-AUTHORED-ATTACK-001-v1.json",
+      "sha256": "85b32d86ea7eef50bb29f8cb027bf2dba373c56f4f9200bc2cc366460b595114"
+    },
+    {
+      "file": "attack-motion/source_rig_motion.gd",
+      "sha256": "70bb9b7d36e6418908293b8a60c88e7bc35b840562ee2aac112c099c2b8e31b8"
+    },
+    {
+      "file": "background/exterior.gdshader",
+      "sha256": "1cf4edc14be94e91ce5c47bcc0c8fb4c9d121a6804f3362c116b785483a3d369"
+    },
+    {
+      "file": "background/exterior_backdrop.gd",
+      "sha256": "b6ddf5681291292d640b1b3d4d26ed25b7f4f2b490da0bc3ef771e5a6612766d"
+    },
+    {
+      "file": "battle_game.gd",
+      "sha256": "0ce7f3897da1002710b55ef51827ff2edf23a86e89957d7578d58791b7b91d51"
+    },
+    {
+      "file": "battle_ui.gd",
+      "sha256": "ed2fc3abb8f58a77f7d2d0214570cedad81528de220d411db1c6925bbe85b8d1"
+    },
+    {
+      "file": "campaign-acceptance.json",
+      "sha256": "475283a4a81a0870b5376efd6e82c716083185a17d5d87dea8362d6d1cfceabe"
+    },
+    {
+      "file": "campaign_game.gd",
+      "sha256": "ba6cc05cdeaddd22d0b483daa8e50d14fcd0b20479cd0723c7ae9f3bc634a815"
+    },
+    {
+      "file": "campaign_minimap.gd",
+      "sha256": "5b8685e287cd788c27579dba8182c6009010b6fdb170f237fe696544aa5d11ed"
+    },
+    {
+      "file": "campaign_runtime.gd",
+      "sha256": "ddffb22019672d73a9e91e234aea2a95cb8e27c5bd626207ad52ea34ee4464cf"
+    },
+    {
+      "file": "campaign_ui.gd",
+      "sha256": "07deba976c86b3332fd3e9f6aac386b9793c86bd82534b6bff0e0fc9f6d21178"
+    },
+    {
+      "file": "combat-effects/9b80b8a3.png",
+      "sha256": "085e7f84a9242273225f77fbca8904a5dfda8d7eef69ff7193edf10d998481cd"
+    },
+    {
+      "file": "commander_review_game.gd",
+      "sha256": "a6dc880c41d8dee87a1136eaa8ccb3a65d58ff38ffa5de122f2d7411c52d9fd0"
+    },
+    {
+      "file": "data/commander-source.json",
+      "sha256": "a35997389e117fd001a86f4f92f068862ee1f9773329b3ad6c1e0ea9f26522bc"
+    },
+    {
+      "file": "data/v8-world-next.json",
+      "sha256": "2458fcd34666630d8f90a480035a20a3674076e1cec78172f2b18382c48e23a9"
+    },
+    {
+      "file": "data/v8-world.json",
+      "sha256": "18ce27d795cd94d9a978e2f3be5c7a5d77f2b086b4b4068becb7046cf69df1e6"
+    },
+    {
+      "file": "dock_ornament.gd",
+      "sha256": "7e56d08760762a1bee18f85bc0e3a8b3510afd9b11090421f20b75b701e45401"
+    },
+    {
+      "file": "fonts/Marcellus-Regular.ttf",
+      "sha256": "1cf0cd10b17d35e852729962cc1ffaffed94514895972458345e2df34abb2f81"
+    },
+    {
+      "file": "fonts/SourceSans3-Semibold.ttf",
+      "sha256": "a3f4f8dcf343a8f24dc61951de93f3ba1558b15cd250ba24af8a40e957081b7d"
+    },
+    {
+      "file": "fonts/ui-fonts-marcellus-v1-OFL.txt",
+      "sha256": "715ba72697e14daa9b29a333545f69bde7c497b9f77d0a2a4c4a5a752d961801"
+    },
+    {
+      "file": "fonts/ui-fonts-sourcesans-v1-OFL.txt",
+      "sha256": "09746787287a289323b0ec3cff4d1a4a801331b82b7207c1e186f5d26619a392"
+    },
+    {
+      "file": "hud-art/art-catalog.json",
+      "sha256": "a7b41c3435f3a123e91fd1aa7313addf757f777b050f62af5931ec79f7538cde"
+    },
+    {
+      "file": "hud-art/assets/RTS-ROTK14-CLASSIC-HUD-BUTTON-DISABLED-001-v1.png",
+      "sha256": "84c2b405036e0b767b2cdca9e31de1331d7b1d9ea663d4be8f588d7978785383"
+    },
+    {
+      "file": "hud-art/assets/RTS-ROTK14-CLASSIC-HUD-BUTTON-HOVER-001-v1.png",
+      "sha256": "84c2b405036e0b767b2cdca9e31de1331d7b1d9ea663d4be8f588d7978785383"
+    },
+    {
+      "file": "hud-art/assets/RTS-ROTK14-CLASSIC-HUD-BUTTON-NORMAL-001-v1.png",
+      "sha256": "84c2b405036e0b767b2cdca9e31de1331d7b1d9ea663d4be8f588d7978785383"
+    },
+    {
+      "file": "hud-art/assets/RTS-ROTK14-CLASSIC-HUD-BUTTON-PRESSED-001-v1.png",
+      "sha256": "84c2b405036e0b767b2cdca9e31de1331d7b1d9ea663d4be8f588d7978785383"
+    },
+    {
+      "file": "hud-art/assets/RTS-ROTK14-CLASSIC-HUD-CITY-ICON-001-v1.png",
+      "sha256": "cdf88f48c61dff503e3d706c4eefd65fc71843554df02ed0dcf89ba698466582"
+    },
+    {
+      "file": "hud-art/assets/RTS-ROTK14-CLASSIC-HUD-FRAME-GOLD-001-v1.png",
+      "sha256": "076abcf91a7d2f29109d56b5515c99c55ae6773fd054ed41143ace92223d0345"
+    },
+    {
+      "file": "hud-art/assets/RTS-ROTK14-CLASSIC-HUD-PANEL-CLOUD-001-v1.png",
+      "sha256": "1dcd997f056d3e55840ad2081ad5a5c918496a69010fbf7009ad6347d723161f"
+    },
+    {
+      "file": "hud-art/assets/RTS-ROTK14-CLASSIC-HUD-PANEL-GRAY-001-v1.png",
+      "sha256": "0eef499e98f06ab9fe07b243a4b0da79b38d1486a2aa6d8ddb8702572f2dc4b3"
+    },
+    {
+      "file": "hud-art/assets/RTS-ROTK14-CLASSIC-HUD-PORTRAIT-FRAME-001-v1.png",
+      "sha256": "6ac3a6763ccfcaff6e4bb72c0a1594ba30774c00809b50ae2a60120e933d361c"
+    },
+    {
+      "file": "hud-art/assets/RTS-ROTK14-COMMANDER-ZHANG-FEI-ORIGINAL-PORTRAIT-001-v1.png",
+      "sha256": "3e67b249a9e049599fca1eb8d909c67a41865d4d03c0eb16cda2192d752b6de4"
+    },
+    {
+      "file": "hud-art/assets/RTS-ROTK14-COMMANDER-ZHANG-FEI-ORIGINAL-PORTRAIT-FULL-001-v1.png",
+      "sha256": "938a541e9ec59ea5c937b045a6d28f417195cb660401a58103699a1c0f06a709"
+    },
+    {
+      "file": "main.tscn",
+      "sha256": "dcdb7485e11720bf1e4fb9e40be67e872a0ebea135a1b0dbfe56d51efdd0b04f"
+    },
+    {
+      "file": "map-presentation/grass-roads-v1.gdshader",
+      "sha256": "01872046d07c981d6dc34d09ca28aea8d328149e81e62e0e386c09d4a4bc0878"
+    },
+    {
+      "file": "map-presentation/roads-v1-mask.png",
+      "sha256": "705fa0582aea6284d02e1a35fa15e055228ea03eb9d2de86bc07dac7ae2408bb"
+    },
+    {
+      "file": "map-presentation/roads-v1.json",
+      "sha256": "3ae6d023e17dd6cdaf986e97bd69d914348c7f70a024be0a782544c152c1bdd5"
+    },
+    {
+      "file": "map-presentation/terrain-roads-v1.gdshader",
+      "sha256": "afbb30ed9cfcf2a78835bc0bf7b1824963e763df264c6d45ef98f4ea6ed7d4af"
+    },
+    {
+      "file": "martial_marks.gd",
+      "sha256": "269a891161bb26bc8036dbf1b18a32a7288c8ec2e415157912d31616dbba996b"
+    },
+    {
+      "file": "martial_tokens.gd",
+      "sha256": "1e509289e8523b0d49f1ffd52ea86e9efcb0d8b09f856dd8fe162ba99dcb7f17"
+    },
+    {
+      "file": "move_target_indicator.gd",
+      "sha256": "3f39593c8025932ad97d83b54b7b5d1954d70ace2960b241fe391b3ddf0981d2"
+    },
+    {
+      "file": "overlay_geometry.gd",
+      "sha256": "6534c26296205f06015e92ef6830a07a2f7a1d6fb64c318508ef64f2b7da116e"
+    },
+    {
+      "file": "portraits/face_0001_ctr.png",
+      "sha256": "de8d8386c63f7de033fd2d302da945ce21bcd6db7612834ebc12e4790a985a2f"
+    },
+    {
+      "file": "portraits/face_0003_ctr.png",
+      "sha256": "a408de09c7e06e6ac83175bf34b08744719dc76b9e01a986ffcf0839133f406f"
+    },
+    {
+      "file": "portraits/face_0008_ctr.png",
+      "sha256": "add1cfb9d956d60b343a665c0a3cf76d28d8daa4e51253411e90c823d0468e29"
+    },
+    {
+      "file": "portraits/face_0022_ctr.png",
+      "sha256": "4166de3cb46b9a34767b78cc5fe2395fcace2c2248980c562cc3a815ccc03220"
+    },
+    {
+      "file": "portraits/review-0005-cao-ren-v1.png",
+      "sha256": "72182eeb59fc0182a75dd86266c13dd8f853edeb261d1a9dd04c870789ddd13e"
+    },
+    {
+      "file": "portraits/review-0006-xiahou-dun-v1.png",
+      "sha256": "9c6edb4dc71b00e20fb02321ec1776e6bc5e1691d4e1bdba4e6ed19a813b4135"
+    },
+    {
+      "file": "portraits/review-0011-xu-chu-v1.png",
+      "sha256": "366a3445f2fbd6f5373d119784b2d1067a99e7e4d1ae1b7dedfa399828839787"
+    },
+    {
+      "file": "portraits/review-0016-gan-ning-v1.png",
+      "sha256": "dfdb238f3b648f06a53609e21ea280270dc3b76b100a9706ab2d7a3b03ca669d"
+    },
+    {
+      "file": "portraits/review-0018-huang-gai-v1.png",
+      "sha256": "449e90a7628a0b918237173aa776a2d5680a0996f13a3540af2a6910d315d6bc"
+    },
+    {
+      "file": "portraits/review-0021-taishi-ci-v1.png",
+      "sha256": "52825629a137cf35c6a0aee745a285375fc414d663e5a8d75a1bda2fe2a1fb7a"
+    },
+    {
+      "file": "portraits/review-0023-xiahou-yuan-v1.png",
+      "sha256": "bdc93a1e6e334ffd9b590c52c13ba1b3ff0fd6506de024d06b79e1da2af18e7f"
+    },
+    {
+      "file": "portraits/review-0044-zhuge-liang-v1.png",
+      "sha256": "5bbef504471ff6daf4d5616530d22da0537fc9b82276aca49513d699eefd0921"
+    },
+    {
+      "file": "portraits/review-0048-zhang-liao-v1.png",
+      "sha256": "b747397859a15ddd8d66b77003d5168abd604a594da261bc23c5d0ade110d22e"
+    },
+    {
+      "file": "portraits/review-0059-cao-cao-v1.png",
+      "sha256": "982168f4e87e2fc5425dbbe4404834b08ed3fb9cf2e5bd382b9d3a59e40b1fb4"
+    },
+    {
+      "file": "portraits/review-0062-sun-ce-v1.png",
+      "sha256": "150e96e0034e3a5a76fed4347aa62dd11474482b4d16063727b5d1abab264c83"
+    },
+    {
+      "file": "portraits/review-0090-zhou-yu-v1.png",
+      "sha256": "e7ea15699ceee6e44b65c0ec2897a2f72bffd7615f3146a4634f3b90d392016b"
+    },
+    {
+      "file": "portraits/review-0152-lu-meng-v1.png",
+      "sha256": "9b77d8fde1e72d7fd81dfebfc8f2d285b0960bb91ed38d8f2789770dce573155"
+    },
+    {
+      "file": "project.godot",
+      "sha256": "ed0f3000dc67bdc5943f7305fd5cd51b6047ed2ee492e9f2815638d91d54ca7b"
+    },
+    {
+      "file": "render-cache/terrain-stride2.scn",
+      "sha256": "56136667d9261cadefb0c70716be91e508eb0c11360fcc4cb38d5705dc100041"
+    },
+    {
+      "file": "render-cache/terrain-stride4.scn",
+      "sha256": "2d4dc92e08a39ef560156a534b2fbfb8bfc40e5b295341ab7bfaec86785bfa09"
+    },
+    {
+      "file": "scripts/arrow_volley_view.gd",
+      "sha256": "6e1e915d97007e90872dc86e9a5dfc011d141fceec2b31c894ac4677518ba8f3"
+    },
+    {
+      "file": "scripts/battle_campaign.gd",
+      "sha256": "7250e033d54c2b082258eba469b2ce739c5c098d5a32accca354254c159e05d0"
+    },
+    {
+      "file": "scripts/commander_scenario.gd",
+      "sha256": "a6c786679dd67c3fbd0d33372e5b228cfa74cbd416a470a2bcc48b693da5dbba"
+    },
+    {
+      "file": "scripts/commander_session.gd",
+      "sha256": "19639442ed7d285d3799287608de5c99f3966af707fac8e6b238310543890910"
+    },
+    {
+      "file": "scripts/contact_formation_view.gd",
+      "sha256": "6c06c26ecfdb2e2e7408edd86984efb47029a4171fb9f9b92072543c1afc9c15"
+    },
+    {
+      "file": "scripts/hud_classic_skin.gd",
+      "sha256": "d47255b7c5e1c32b292cb0b0845560050c6d16fefd9ef2f4047f3eb7e828d1a4"
+    },
+    {
+      "file": "scripts/rts_ai.gd",
+      "sha256": "f935da21b59a33aa2359c840d55e8d49893c7209f9ade2c842f6a52745164ab8"
+    },
+    {
+      "file": "scripts/rts_boat_transport.gd",
+      "sha256": "c86df9d8d37a12042ee6bd9e5275884d42aea03d415704291dea229e98b72f54"
+    },
+    {
+      "file": "scripts/rts_camera_bounds.gd",
+      "sha256": "cb6d76ea3d1c142f247d2eaba575c6d11abd72192194fcad68a4aedddb4ef34e"
+    },
+    {
+      "file": "scripts/rts_campaign_ai.gd",
+      "sha256": "f5615988849920f6213ac74479a97b271df02640695509f8e969f9ca2185ed9b"
+    },
+    {
+      "file": "scripts/rts_campaign_app.gd",
+      "sha256": "641df665c5c3515d87f2ee09c322368242a93356b3b7b783450e743cfd416f2b"
+    },
+    {
+      "file": "scripts/rts_campaign_session.gd",
+      "sha256": "b5acf450ef9c0334f14338618a60a0bd4f9daf60b669c53bc50fb24b69158c82"
+    },
+    {
+      "file": "scripts/rts_campaign_simulation.gd",
+      "sha256": "2ae34923d7b3f0fb7c7c9116cd5ffd1ee631c93672fe55b078778b05d7871208"
+    },
+    {
+      "file": "scripts/rts_combat_rules.gd",
+      "sha256": "b5a57477232d83035e4bd4414223b30703bc232f83585f0fb51365014b5837c5"
+    },
+    {
+      "file": "scripts/rts_command_bar.gd",
+      "sha256": "20fbcb40fec14b3343e0c14ab01cad75b2c4c9c5c162abc8c2e6d83b45e7d41a"
+    },
+    {
+      "file": "scripts/rts_commander_campaign.gd",
+      "sha256": "445f7d98519f9b55769685f412d421d78e8f5ab5bd3c6a8bd2e9956c84aa4dd8"
+    },
+    {
+      "file": "scripts/rts_commander_rules.gd",
+      "sha256": "fb384710e5056299fe92bc6e1ec86b3c728f50e97272dfaecb7f02852257ec7a"
+    },
+    {
+      "file": "scripts/rts_compact_graph.gd",
+      "sha256": "386baa8ee5830cdde2e98936ba9165fb26713aa6bb95e7bddd59450cd02eb622"
+    },
+    {
+      "file": "scripts/rts_controller.gd",
+      "sha256": "60135e475939118cfa3e63d613e5352e37a7a6e916c3db44e80ff2ff949f3095"
+    },
+    {
+      "file": "scripts/rts_edge_camera.gd",
+      "sha256": "e8ad568a25e65881c7a10b6a0bc86a64f02e9f668de094f64ed6139db31b3ff2"
+    },
+    {
+      "file": "scripts/rts_faction_view.gd",
+      "sha256": "dc8248320a4fbda8b18e9fa7bb448a14030f875d397c23aff60de63e187012a7"
+    },
+    {
+      "file": "scripts/rts_ferry_view.gd",
+      "sha256": "61b3c96e24b03500892fa3ec91a5733222de3e4a2b570bc333ecb2c133030580"
+    },
+    {
+      "file": "scripts/rts_formation_steering.gd",
+      "sha256": "942b1b34d3419255075c7bfd65b35065664b4a1a0cc5bd9a02dace11e81e54d6"
+    },
+    {
+      "file": "scripts/rts_gameplay_save.gd",
+      "sha256": "2b81cff6aeb40c27945e2f67b42b6b51fa01aa24535e04c87143240e919de54f"
+    },
+    {
+      "file": "scripts/rts_group_orders.gd",
+      "sha256": "1c02696e7403332daac7c21e59b8845a8e766d3f70e9bcde5fc60185ed404c8a"
+    },
+    {
+      "file": "scripts/rts_map.gd",
+      "sha256": "3dad124e12ec3370aee9720dad722a599ce3407b17e0f08fe4ad3df674a0a9cb"
+    },
+    {
+      "file": "scripts/rts_map_v8.gd",
+      "sha256": "9c6260682c8e7c0480e8f4900a5bb73711c113df2ae17f25ebe77312c614c2a8"
+    },
+    {
+      "file": "scripts/rts_map_v8_base.gd",
+      "sha256": "b4b5452cf58a90d69565f854dab8faebcfa2af64d894e99e13428ccdd207d2a4"
+    },
+    {
+      "file": "scripts/rts_motion_track.gd",
+      "sha256": "b46b722e18280209270e45819c0e5225ebfd642f246a19ae4b52a1a2fc8ab787"
+    },
+    {
+      "file": "scripts/rts_navigation_plan.gd",
+      "sha256": "abc8d68001f7ecedcc3f37b408688e1e66f248b04fbf26f14727b21bcac30d82"
+    },
+    {
+      "file": "scripts/rts_officer_campaign.gd",
+      "sha256": "edf8822d5fff03f17fdf6fb1564ea53a0ac34b2f8bae10aae65c657e0c0f629b"
+    },
+    {
+      "file": "scripts/rts_officer_rules.gd",
+      "sha256": "e6d43f3b99edcfe28d8361fd29687b5bd826f622bf6b6c82c740f974c097d620"
+    },
+    {
+      "file": "scripts/rts_order_input.gd",
+      "sha256": "b426680209cf7f580b0d4d3fe7ada8a399f7382931a371c2c07dc792941ece9b"
+    },
+    {
+      "file": "scripts/rts_overview_camera.gd",
+      "sha256": "8f01fd009f2c1e4d42ed79fc8951b27d059910a283d7b1ef27ddc0f9bd432710"
+    },
+    {
+      "file": "scripts/rts_priority_queue.gd",
+      "sha256": "48e24aedc56d10535d262c8b2f590b0a34a295588ddf9852000c478684d04838"
+    },
+    {
+      "file": "scripts/rts_render_shutdown.gd",
+      "sha256": "32ccd9c95ca63bf0099d353f3967ea1fe89d296aee40757ce6481c119535e8b6"
+    },
+    {
+      "file": "scripts/rts_river_navigation.gd",
+      "sha256": "e91fe6d099d111098fa85178f16cc2b910c573ad7e71c0a727dcf06132d716f4"
+    },
+    {
+      "file": "scripts/rts_route_presentation.gd",
+      "sha256": "bac9652ab3b90fea84062c7285e20245549789246d2b7faaaa2dd88da6907fea"
+    },
+    {
+      "file": "scripts/rts_save_store.gd",
+      "sha256": "0e17d2e78ffa2fb157e8a77765f9e500b9f2b18d691528333dafb244b58e8c74"
+    },
+    {
+      "file": "scripts/rts_selection_view.gd",
+      "sha256": "77c4a59f790e810b259f1b4176d0de2762d3774d6339db36023abd4c09435d0e"
+    },
+    {
+      "file": "scripts/rts_simulation.gd",
+      "sha256": "4c7e56f731c047272735a91dd134c34ea9d07de5354f4c27f97f662dd9edc588"
+    },
+    {
+      "file": "scripts/rts_tactical_combat.gd",
+      "sha256": "97c9fa6c54576eb2e01627471a607bb895d0530a115c82edbff481affbd917df"
+    },
+    {
+      "file": "scripts/rts_tactical_movement.gd",
+      "sha256": "fa6e4840d85bd01403103122f7ddc7d1f098e226cf4f13cb4bfead8ad6d78c9b"
+    },
+    {
+      "file": "scripts/rts_tactical_orders.gd",
+      "sha256": "61e309f99c73f0e44bf332652a7e6e615343168f46568f2865a64a5449014b9f"
+    },
+    {
+      "file": "scripts/rts_tactical_rules.gd",
+      "sha256": "848e380441250abfbf88350d36082c2c97285122b399222c49e76dbfe5cf0552"
+    },
+    {
+      "file": "scripts/rts_terrain_chunks.gd",
+      "sha256": "a8ddbb05b7584324f5e04805157618c3fbfc339d38ffa3c3fea7178c651b2142"
+    },
+    {
+      "file": "scripts/rts_traditional_rules.gd",
+      "sha256": "019abde9a5692cfc513f0c7dc3f40201b768bcedd1449c013df95fb13dbe330f"
+    },
+    {
+      "file": "scripts/rts_unit_standard.gd",
+      "sha256": "f79d80a732f712a42d80ef8647bb10193077b35d6577aba75905d61748826d6a"
+    },
+    {
+      "file": "scripts/rts_world_view.gd",
+      "sha256": "cf59c89f59087ec73ec607c6d1405fa058faa15c2609797584cfd697cecdaec0"
+    },
+    {
+      "file": "scripts/source_animated_review_view.gd",
+      "sha256": "4e4e21098cd9164a409160a8727a19d0ff2ff53363ab5e9c9507f2e1c250566a"
+    },
+    {
+      "file": "scripts/v8_scenario.gd",
+      "sha256": "7763da047e320bb97d4e50dfcbd5afb366703537455da14d994b6fd91d57602d"
+    },
+    {
+      "file": "strategic_overlay.gd",
+      "sha256": "7460bff8890921a5c20fc43c9f15d2e8bc6e6923fcb7980dc1b0a04bec4bfce6"
+    },
+    {
+      "file": "ui_tokens.gd",
+      "sha256": "f6e0b7e56918649985d7941842aafd695577961b4a7cb3ceb098aa47c8c9824c"
+    },
+    {
+      "file": "unit-models/asset-catalog.json",
+      "sha256": "5b2a35c9387eba56d01c7ad100f04da953a427689ad75b994deca276b224b3b6"
+    },
+    {
+      "file": "unit-models/assets/ROTK14-SOURCE-BOW-26112E32-v2.glb",
+      "sha256": "56829a73365e5324a7e4e819159a64d1a7710a9f58e858145376f78b596bb781"
+    },
+    {
+      "file": "unit-models/assets/ROTK14-SOURCE-BOW-26112E32-v2_0.png",
+      "sha256": "3d7d4e6f7f480eb8ef33c3df7ea0ba2b332f9caa14d09ff98e04adaaadf0178d"
+    },
+    {
+      "file": "unit-models/assets/ROTK14-SOURCE-HORSE-CDF4BC12-ALPHA-v1.glb",
+      "sha256": "517b69f7c58cda58cab5651847153343dcb52ebe354cf680a2ab1fa7b589c236"
+    },
+    {
+      "file": "unit-models/assets/ROTK14-SOURCE-HORSE-CDF4BC12-ALPHA-v1_0.png",
+      "sha256": "159d8c825ad0e6637627bcc6a8525f8eda4ab81d7c26c676b3caa33f9616687d"
+    },
+    {
+      "file": "unit-models/assets/ROTK14-SOURCE-HORSE-CDF4BC12-ALPHA-v1_1.png",
+      "sha256": "0acef7190014cd86f5e2f4c22a9aba2ef40325f1f5f0626e3d76418f0120fa3e"
+    },
+    {
+      "file": "unit-models/assets/ROTK14-SOURCE-SIEGE-C0D5FA9C-v2.glb",
+      "sha256": "d82735eed850dfe5d4091b7d863e8a96308b3d6fba403ce50d974a6365e9d930"
+    },
+    {
+      "file": "unit-models/assets/ROTK14-SOURCE-SIEGE-C0D5FA9C-v2_0.png",
+      "sha256": "a9f70329b30244f86812b8c8d3cf25f4d3a947466ac7d54d2264c11ca1117fe1"
+    },
+    {
+      "file": "unit-models/assets/ROTK14-SOURCE-SIEGE-C0D5FA9C-v2_1.png",
+      "sha256": "8a8bc4cbc3fd2c6bad54904f81c585412e314227a58bec7a9064d4cdef9db927"
+    },
+    {
+      "file": "unit-models/assets/ROTK14-SOURCE-SOLDIER-D3C18F06-v2.glb",
+      "sha256": "be26e2327fb33a1e9ff9c6379d5bd2640a9e026e4e54b781515846bf74a9a127"
+    },
+    {
+      "file": "unit-models/assets/ROTK14-SOURCE-SOLDIER-D3C18F06-v2_0.png",
+      "sha256": "68c8eb71c4af388a7d1ca7836ccc63ad6aa1ccac736f22304faf024d0e7b5c5b"
+    },
+    {
+      "file": "unit-models/assets/RTS-SOURCE-D3C18F06-BODY-SUBSET-001-v1.glb",
+      "sha256": "bcd17a565e3c38a4d9c1727d9f6db70d72a9d02c8c34bc7528cb0899f26ff108"
+    },
+    {
+      "file": "unit-models/assets/RTS-SOURCE-D3C18F06-BODY-SUBSET-001-v1_0.png",
+      "sha256": "68c8eb71c4af388a7d1ca7836ccc63ad6aa1ccac736f22304faf024d0e7b5c5b"
+    },
+    {
+      "file": "unit-models/assets/horse-mesh-0-generated-lods.res",
+      "sha256": "369c750643044630827bfda8b1928046907d5865eb34d9587c24970e4d682337"
+    },
+    {
+      "file": "unit-models/assets/horse-mesh-1-generated-lods.res",
+      "sha256": "04253dcb9db99f5b49eb0667a0294ee7bf69a1dfb4c9f1ece07a1a558f7928dc"
+    },
+    {
+      "file": "unit-models/formation_locomotion_state.gd",
+      "sha256": "e4e5bbb6e6277e80ab9ee9126c2c0505162dfda65adee280784686f7d2d92024"
+    },
+    {
+      "file": "unit-models/horse-groom-pose.json",
+      "sha256": "4fa81e19e9e71c2e3658891acd4c7882d72e6bd753d695668fe8672841ea0d4b"
+    },
+    {
+      "file": "unit-models/melee_contact_motion.gd",
+      "sha256": "ab7472cd2e316095d3335f25fe9e0cbd5da206a93640f08b84c60df71cf645cd"
+    },
+    {
+      "file": "unit-models/mounted_rider.gd",
+      "sha256": "c4a43d049b7f11891d2c26aa2e6a9dfa11317603fad2b7203b64677623295fef"
+    },
+    {
+      "file": "unit-models/siege_machine_motion.gd",
+      "sha256": "8051e01d744b34106b5dcf8e8a8c0765df93ae42437c35741fc7c09c7f84713a"
+    },
+    {
+      "file": "unit-models/source_locomotion.gd",
+      "sha256": "0072464fd4f9a7d94edaa6c1df1490d6eb99f0fed1b1de5441809cd0be910c90"
+    },
+    {
+      "file": "unit-models/source_role_formation_view.gd",
+      "sha256": "8fc6495806584b6fa165ec9090fa896e01511951a4f542a4b8372162a4c705f1"
+    },
+    {
+      "file": "unit-models/source_role_motion.gd",
+      "sha256": "bbec507fc6ce225959772fb3c6c401887d2cc47c131150bb54ae45664e9606b9"
+    },
+    {
+      "file": "unit_stats.gd",
+      "sha256": "6be1232b6e3db6de946cc5be64e343d3dba62b95800e87263cda7587d323e7ba"
+    },
+    {
+      "file": "unit_stats_panel.gd",
+      "sha256": "7e609652b5d97637fc096e6a7ba6dfba92a29092c538d72cc46b392a4be63f77"
+    }
+  ],
+  "revision": {
+    "requested_date": "2026-11-08",
+    "base_acceptance": "campaign-acceptance.json",
+    "scope": "Retained combat/control changes plus compact schema14 saves, save/load repair, ring-free unit selection and collision-separated formation movement",
+    "source_art_and_attack_clips_changed": false,
+    "simulation_rules_changed": false,
+    "save_storage_changed": true,
+    "full_schema14_load_compatible": true
+  }
+}

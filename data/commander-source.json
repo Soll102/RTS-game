@@ -1,0 +1,896 @@
+{
+  "schema": 1,
+  "version": 1,
+  "label_language": "en",
+  "status": "pending_exact_review",
+  "portrait_identity": "Explicit human review-sheet identification or selected local reference.",
+  "stat_origin": "Authored RTS balance; these are not claimed as recovered native ROTK XIV STR/LEAD.",
+  "balance_rule": "Six per faction with identical stat distributions: total STR=525 and LEAD=525.",
+  "officers": {
+    "cao_cao": {
+      "id": "cao_cao",
+      "name": "Cao Cao",
+      "faction": "wei",
+      "str": 80,
+      "lead": 95,
+      "portrait": "portraits/review-0059-cao-cao-v1.png",
+      "portrait_sha256": "982168f4e87e2fc5425dbbe4404834b08ed3fb9cf2e5bd382b9d3a59e40b1fb4",
+      "portrait_asset_id": "RTS-ROTK14-COMMANDER-PORTRAIT-0059",
+      "review_sheet_id": "0059",
+      "stat_origin": "Authored RTS balance; these are not claimed as recovered native ROTK XIV STR/LEAD.",
+      "source": {
+        "asset_id": "RTS-ROTK14-COMMANDER-PORTRAIT-0059",
+        "version": 1,
+        "source": {
+          "index": "D:\\Games\\ROMANCE.OF.THE.THREE.KINGDOMS.XIV.v2026.04.12\\game\\0002\\ScreenLayout.rdb",
+          "index_sha256": "ed2e5b5df09e82bae4d6f8d1eb8ac781e35d3187425db930858c260dacae5385",
+          "texture": {
+            "index_offset": 1327628,
+            "record_bytes": 103,
+            "file_id": "f59e1300",
+            "type_id": "afbec60c",
+            "flags": "0x120000",
+            "decoded_bytes": 262200,
+            "locator": "3dc4779a@1c98a"
+          },
+          "archive": "D:\\Games\\ROMANCE.OF.THE.THREE.KINGDOMS.XIV.v2026.04.12\\game\\0002\\ScreenLayout.rdb.bin",
+          "offset": 1036285850,
+          "record_bytes": 117130,
+          "record_sha256": "c19b7bacb7f8bc743b139e62b7411539ce49f61c286e5e24ef993285bc0d52b5",
+          "decoded_payload_sha256": "a155004612b8a96f92f29031ede4ae20f439df3d6cc35a1b2e2741f9294d8b15",
+          "descriptor_candidate": {
+            "index_offset": 346132,
+            "record_bytes": 68,
+            "file_id": "3f87df4b",
+            "type_id": "f20de437",
+            "flags": "0x120000",
+            "decoded_bytes": 108,
+            "locator": "3dc47732@68"
+          },
+          "descriptor_name_candidate": [
+            "face_0059_ctr"
+          ],
+          "descriptor_association_verified": false
+        },
+        "identity_basis": "Explicit human identification of the exact displayed review image; native officer/face-number binding unresolved.",
+        "review_sheet_id": "0059"
+      }
+    },
+    "cao_ren": {
+      "id": "cao_ren",
+      "name": "Cao Ren",
+      "faction": "wei",
+      "str": 83,
+      "lead": 92,
+      "portrait": "portraits/review-0005-cao-ren-v1.png",
+      "portrait_sha256": "72182eeb59fc0182a75dd86266c13dd8f853edeb261d1a9dd04c870789ddd13e",
+      "portrait_asset_id": "RTS-ROTK14-COMMANDER-PORTRAIT-0005",
+      "review_sheet_id": "0005",
+      "stat_origin": "Authored RTS balance; these are not claimed as recovered native ROTK XIV STR/LEAD.",
+      "source": {
+        "asset_id": "RTS-ROTK14-COMMANDER-PORTRAIT-0005",
+        "version": 1,
+        "source": {
+          "index": "D:\\Games\\ROMANCE.OF.THE.THREE.KINGDOMS.XIV.v2026.04.12\\game\\0002\\ScreenLayout.rdb",
+          "index_sha256": "ed2e5b5df09e82bae4d6f8d1eb8ac781e35d3187425db930858c260dacae5385",
+          "texture": {
+            "index_offset": 941544,
+            "record_bytes": 103,
+            "file_id": "aea6d5b4",
+            "type_id": "afbec60c",
+            "flags": "0x120000",
+            "decoded_bytes": 262200,
+            "locator": "3d638b77@1d6ee"
+          },
+          "archive": "D:\\Games\\ROMANCE.OF.THE.THREE.KINGDOMS.XIV.v2026.04.12\\game\\0002\\ScreenLayout.rdb.bin",
+          "offset": 1029933943,
+          "record_bytes": 120558,
+          "record_sha256": "f9bbc8439b2c50807f96d7106496b3bc77c4f88f9ae91cc6d913421c4bf82c79",
+          "decoded_payload_sha256": "deab976cbd0699a7ac10c2a96b1f112c751fc753992d5b0b766e627b10e2018a",
+          "descriptor_candidate": {
+            "index_offset": 665872,
+            "record_bytes": 68,
+            "file_id": "7b3144ca",
+            "type_id": "f20de437",
+            "flags": "0x120000",
+            "decoded_bytes": 108,
+            "locator": "3d638b0f@68"
+          },
+          "descriptor_name_candidate": [
+            "face_0005_ctr"
+          ],
+          "descriptor_association_verified": false
+        },
+        "identity_basis": "Explicit human identification of the exact displayed review image; native officer/face-number binding unresolved.",
+        "review_sheet_id": "0005"
+      }
+    },
+    "zhang_liao": {
+      "id": "zhang_liao",
+      "name": "Zhang Liao",
+      "faction": "wei",
+      "str": 86,
+      "lead": 89,
+      "portrait": "portraits/review-0048-zhang-liao-v1.png",
+      "portrait_sha256": "b747397859a15ddd8d66b77003d5168abd604a594da261bc23c5d0ade110d22e",
+      "portrait_asset_id": "RTS-ROTK14-COMMANDER-PORTRAIT-0048",
+      "review_sheet_id": "0048",
+      "stat_origin": "Authored RTS balance; these are not claimed as recovered native ROTK XIV STR/LEAD.",
+      "source": {
+        "asset_id": "RTS-ROTK14-COMMANDER-PORTRAIT-0048",
+        "version": 1,
+        "source": {
+          "index": "D:\\Games\\ROMANCE.OF.THE.THREE.KINGDOMS.XIV.v2026.04.12\\game\\0002\\ScreenLayout.rdb",
+          "index_sha256": "ed2e5b5df09e82bae4d6f8d1eb8ac781e35d3187425db930858c260dacae5385",
+          "texture": {
+            "index_offset": 378532,
+            "record_bytes": 103,
+            "file_id": "45908895",
+            "type_id": "afbec60c",
+            "flags": "0x120000",
+            "decoded_bytes": 262200,
+            "locator": "3db20834@1b756"
+          },
+          "archive": "D:\\Games\\ROMANCE.OF.THE.THREE.KINGDOMS.XIV.v2026.04.12\\game\\0002\\ScreenLayout.rdb.bin",
+          "offset": 1035077684,
+          "record_bytes": 112470,
+          "record_sha256": "fec486f23a482b95951797351b55fac593919071aa43865802cf1bdeaa40f223",
+          "decoded_payload_sha256": "bab42e8b21fa155bfd319c62fda18c4e7767b2be0085f18007037504b1083c25",
+          "descriptor_candidate": {
+            "index_offset": 426336,
+            "record_bytes": 68,
+            "file_id": "4e549f2b",
+            "type_id": "f20de437",
+            "flags": "0x120000",
+            "decoded_bytes": 108,
+            "locator": "3db207cc@68"
+          },
+          "descriptor_name_candidate": [
+            "face_0048_ctr"
+          ],
+          "descriptor_association_verified": false
+        },
+        "identity_basis": "Explicit human identification of the exact displayed review image; native officer/face-number binding unresolved.",
+        "review_sheet_id": "0048"
+      }
+    },
+    "xiahou_dun": {
+      "id": "xiahou_dun",
+      "name": "Xiahou Dun",
+      "faction": "wei",
+      "str": 89,
+      "lead": 86,
+      "portrait": "portraits/review-0006-xiahou-dun-v1.png",
+      "portrait_sha256": "9c6edb4dc71b00e20fb02321ec1776e6bc5e1691d4e1bdba4e6ed19a813b4135",
+      "portrait_asset_id": "RTS-ROTK14-COMMANDER-PORTRAIT-0006",
+      "review_sheet_id": "0006",
+      "stat_origin": "Authored RTS balance; these are not claimed as recovered native ROTK XIV STR/LEAD.",
+      "source": {
+        "asset_id": "RTS-ROTK14-COMMANDER-PORTRAIT-0006",
+        "version": 1,
+        "source": {
+          "index": "D:\\Games\\ROMANCE.OF.THE.THREE.KINGDOMS.XIV.v2026.04.12\\game\\0002\\ScreenLayout.rdb",
+          "index_sha256": "ed2e5b5df09e82bae4d6f8d1eb8ac781e35d3187425db930858c260dacae5385",
+          "texture": {
+            "index_offset": 565668,
+            "record_bytes": 103,
+            "file_id": "681e6353",
+            "type_id": "afbec60c",
+            "flags": "0x120000",
+            "decoded_bytes": 262200,
+            "locator": "3d6562cd@1c031"
+          },
+          "archive": "D:\\Games\\ROMANCE.OF.THE.THREE.KINGDOMS.XIV.v2026.04.12\\game\\0002\\ScreenLayout.rdb.bin",
+          "offset": 1030054605,
+          "record_bytes": 114737,
+          "record_sha256": "aad21c02db8f3fe22864ae1eee8dfb3668dbea3d4ac9beaf053b5f48241088c3",
+          "decoded_payload_sha256": "94b228612a43641f5cbe5b6357dc31c0e6747719b3a4687ef2a64411b10a9994",
+          "descriptor_candidate": {
+            "index_offset": 588308,
+            "record_bytes": 68,
+            "file_id": "6cdaeae9",
+            "type_id": "f20de437",
+            "flags": "0x120000",
+            "decoded_bytes": 108,
+            "locator": "3d656265@68"
+          },
+          "descriptor_name_candidate": [
+            "face_0006_ctr"
+          ],
+          "descriptor_association_verified": false
+        },
+        "identity_basis": "Explicit human identification of the exact displayed review image; native officer/face-number binding unresolved.",
+        "review_sheet_id": "0006"
+      }
+    },
+    "xiahou_yuan": {
+      "id": "xiahou_yuan",
+      "name": "Xiahou Yuan",
+      "faction": "wei",
+      "str": 92,
+      "lead": 83,
+      "portrait": "portraits/review-0023-xiahou-yuan-v1.png",
+      "portrait_sha256": "bdc93a1e6e334ffd9b590c52c13ba1b3ff0fd6506de024d06b79e1da2af18e7f",
+      "portrait_asset_id": "RTS-ROTK14-COMMANDER-PORTRAIT-0023",
+      "review_sheet_id": "0023",
+      "stat_origin": "Authored RTS balance; these are not claimed as recovered native ROTK XIV STR/LEAD.",
+      "source": {
+        "asset_id": "RTS-ROTK14-COMMANDER-PORTRAIT-0023",
+        "version": 1,
+        "source": {
+          "index": "D:\\Games\\ROMANCE.OF.THE.THREE.KINGDOMS.XIV.v2026.04.12\\game\\0002\\ScreenLayout.rdb",
+          "index_sha256": "ed2e5b5df09e82bae4d6f8d1eb8ac781e35d3187425db930858c260dacae5385",
+          "texture": {
+            "index_offset": 612956,
+            "record_bytes": 103,
+            "file_id": "70f93f78",
+            "type_id": "afbec60c",
+            "flags": "0x120000",
+            "decoded_bytes": 262200,
+            "locator": "3d862a8b@1d66e"
+          },
+          "archive": "D:\\Games\\ROMANCE.OF.THE.THREE.KINGDOMS.XIV.v2026.04.12\\game\\0002\\ScreenLayout.rdb.bin",
+          "offset": 1032202891,
+          "record_bytes": 120430,
+          "record_sha256": "3ea42a07073558703421e87d2c679f4c1d7146b364e160f153f985c1a36142fa",
+          "decoded_payload_sha256": "c09fbce28f6cd132fe1b640845576c981b1a8f991283ccc34ec0b4addf21a67d",
+          "descriptor_candidate": {
+            "index_offset": 811984,
+            "record_bytes": 68,
+            "file_id": "96f12c8e",
+            "type_id": "f20de437",
+            "flags": "0x120000",
+            "decoded_bytes": 108,
+            "locator": "3d862a23@68"
+          },
+          "descriptor_name_candidate": [
+            "face_0023_ctr"
+          ],
+          "descriptor_association_verified": false
+        },
+        "identity_basis": "Explicit human identification of the exact displayed review image; native officer/face-number binding unresolved.",
+        "review_sheet_id": "0023"
+      }
+    },
+    "xu_chu": {
+      "id": "xu_chu",
+      "name": "Xu Chu",
+      "faction": "wei",
+      "str": 95,
+      "lead": 80,
+      "portrait": "portraits/review-0011-xu-chu-v1.png",
+      "portrait_sha256": "366a3445f2fbd6f5373d119784b2d1067a99e7e4d1ae1b7dedfa399828839787",
+      "portrait_asset_id": "RTS-ROTK14-COMMANDER-PORTRAIT-0011",
+      "review_sheet_id": "0011",
+      "stat_origin": "Authored RTS balance; these are not claimed as recovered native ROTK XIV STR/LEAD.",
+      "source": {
+        "asset_id": "RTS-ROTK14-COMMANDER-PORTRAIT-0011",
+        "version": 1,
+        "source": {
+          "index": "D:\\Games\\ROMANCE.OF.THE.THREE.KINGDOMS.XIV.v2026.04.12\\game\\0002\\ScreenLayout.rdb",
+          "index_sha256": "ed2e5b5df09e82bae4d6f8d1eb8ac781e35d3187425db930858c260dacae5385",
+          "texture": {
+            "index_offset": 541464,
+            "record_bytes": 103,
+            "file_id": "636961b9",
+            "type_id": "afbec60c",
+            "flags": "0x120000",
+            "decoded_bytes": 262200,
+            "locator": "3d706fdb@1cd39"
+          },
+          "archive": "D:\\Games\\ROMANCE.OF.THE.THREE.KINGDOMS.XIV.v2026.04.12\\game\\0002\\ScreenLayout.rdb.bin",
+          "offset": 1030778843,
+          "record_bytes": 118073,
+          "record_sha256": "e661d9a5a507f59ea165bacb8118700412ad36dea14b288bac9fd16bfcd5d55d",
+          "decoded_payload_sha256": "a3acb51e137a8886d691ca64fea988c1127f43b7c26f012d2ae9776036e28c01",
+          "descriptor_candidate": {
+            "index_offset": 968384,
+            "record_bytes": 68,
+            "file_id": "b414464f",
+            "type_id": "f20de437",
+            "flags": "0x120000",
+            "decoded_bytes": 108,
+            "locator": "3d706f73@68"
+          },
+          "descriptor_name_candidate": [
+            "face_0011_ctr"
+          ],
+          "descriptor_association_verified": false
+        },
+        "identity_basis": "Explicit human identification of the exact displayed review image; native officer/face-number binding unresolved.",
+        "review_sheet_id": "0011"
+      }
+    },
+    "zhuge_liang": {
+      "id": "zhuge_liang",
+      "name": "Zhuge Liang",
+      "faction": "shu",
+      "str": 80,
+      "lead": 95,
+      "portrait": "portraits/review-0044-zhuge-liang-v1.png",
+      "portrait_sha256": "5bbef504471ff6daf4d5616530d22da0537fc9b82276aca49513d699eefd0921",
+      "portrait_asset_id": "RTS-ROTK14-COMMANDER-PORTRAIT-0044",
+      "review_sheet_id": "0044",
+      "stat_origin": "Authored RTS balance; these are not claimed as recovered native ROTK XIV STR/LEAD.",
+      "source": {
+        "asset_id": "RTS-ROTK14-COMMANDER-PORTRAIT-0044",
+        "version": 1,
+        "source": {
+          "index": "D:\\Games\\ROMANCE.OF.THE.THREE.KINGDOMS.XIV.v2026.04.12\\game\\0002\\ScreenLayout.rdb",
+          "index_sha256": "ed2e5b5df09e82bae4d6f8d1eb8ac781e35d3187425db930858c260dacae5385",
+          "texture": {
+            "index_offset": 519968,
+            "record_bytes": 103,
+            "file_id": "5fb25219",
+            "type_id": "afbec60c",
+            "flags": "0x120000",
+            "decoded_bytes": 262200,
+            "locator": "3daa607a@1cfd0"
+          },
+          "archive": "D:\\Games\\ROMANCE.OF.THE.THREE.KINGDOMS.XIV.v2026.04.12\\game\\0002\\ScreenLayout.rdb.bin",
+          "offset": 1034575994,
+          "record_bytes": 118736,
+          "record_sha256": "37a31c57b084fb759acfe58af4f910b61835ea40f44551147226dc38b144f4a1",
+          "decoded_payload_sha256": "c2758510065c5ec636ee9cb66a46bbe30df476d77051f17408c111d477ebf0f0",
+          "descriptor_candidate": {
+            "index_offset": 732532,
+            "record_bytes": 68,
+            "file_id": "87ae06af",
+            "type_id": "f20de437",
+            "flags": "0x120000",
+            "decoded_bytes": 108,
+            "locator": "3daa6012@68"
+          },
+          "descriptor_name_candidate": [
+            "face_0044_ctr"
+          ],
+          "descriptor_association_verified": false
+        },
+        "identity_basis": "Explicit human identification of the exact displayed review image; native officer/face-number binding unresolved.",
+        "review_sheet_id": "0044"
+      }
+    },
+    "zhao_yun": {
+      "id": "zhao_yun",
+      "name": "Zhao Yun",
+      "faction": "shu",
+      "str": 83,
+      "lead": 92,
+      "portrait": "portraits/face_0008_ctr.png",
+      "portrait_sha256": "add1cfb9d956d60b343a665c0a3cf76d28d8daa4e51253411e90c823d0468e29",
+      "portrait_asset_id": "RTS-ROTK14-COMMANDER-PORTRAIT-0008",
+      "review_sheet_id": "0008",
+      "stat_origin": "Authored RTS balance; these are not claimed as recovered native ROTK XIV STR/LEAD.",
+      "source": {
+        "asset_id": "RTS-ROTK14-COMMANDER-PORTRAIT-0008",
+        "version": 1,
+        "source": {
+          "index": "D:\\Games\\ROMANCE.OF.THE.THREE.KINGDOMS.XIV.v2026.04.12\\game\\0002\\ScreenLayout.rdb",
+          "index_sha256": "ed2e5b5df09e82bae4d6f8d1eb8ac781e35d3187425db930858c260dacae5385",
+          "descriptor": {
+            "index_offset": 436596,
+            "record_bytes": 68,
+            "file_id": "502e3727",
+            "type_id": "f20de437",
+            "flags": "0x120000",
+            "decoded_bytes": 108,
+            "locator": "3d6aba13@68"
+          },
+          "descriptor_sha256": "1822cbe203a6eec259324932f04718f53fa9ee1eff5d4a5b777df0fb062efed0",
+          "texture": {
+            "index_offset": 1179288,
+            "record_bytes": 103,
+            "file_id": "db0d7e91",
+            "type_id": "afbec60c",
+            "flags": "0x120000",
+            "decoded_bytes": 262200,
+            "locator": "3d6aba7b@1f91a"
+          },
+          "archive": "D:\\Games\\ROMANCE.OF.THE.THREE.KINGDOMS.XIV.v2026.04.12\\game\\0002\\ScreenLayout.rdb.bin",
+          "offset": 1030404731,
+          "record_bytes": 129306,
+          "record_sha256": "cc44f7c361be81061c7e8c63aaf9f8ac6ae4a5aa6ffca5cf53c7dc1b8cb7ea4d",
+          "decoded_payload_sha256": "da05cffc0f397092ef0c7685406c380c51d1a59a0794af7c4df703128a75a854",
+          "descriptor_association_verified": false,
+          "descriptor_name_candidate": "face_0008_ctr",
+          "converted_filename_basis": "Historical extraction/display name; not a verified native filename."
+        },
+        "identity_basis": "Explicit human identification of the exact displayed review image; native officer/face-number binding unresolved.",
+        "review_sheet_id": "0008"
+      }
+    },
+    "guan_yu": {
+      "id": "guan_yu",
+      "name": "Guan Yu",
+      "faction": "shu",
+      "str": 86,
+      "lead": 89,
+      "portrait": "portraits/face_0001_ctr.png",
+      "portrait_sha256": "de8d8386c63f7de033fd2d302da945ce21bcd6db7612834ebc12e4790a985a2f",
+      "portrait_asset_id": "RTS-ROTK14-COMMANDER-PORTRAIT-0001",
+      "review_sheet_id": "0001",
+      "stat_origin": "Authored RTS balance; these are not claimed as recovered native ROTK XIV STR/LEAD.",
+      "source": {
+        "asset_id": "RTS-ROTK14-COMMANDER-PORTRAIT-0001",
+        "version": 1,
+        "source": {
+          "index": "D:\\Games\\ROMANCE.OF.THE.THREE.KINGDOMS.XIV.v2026.04.12\\game\\0002\\ScreenLayout.rdb",
+          "index_sha256": "ed2e5b5df09e82bae4d6f8d1eb8ac781e35d3187425db930858c260dacae5385",
+          "descriptor": {
+            "index_offset": 970948,
+            "record_bytes": 68,
+            "file_id": "b48aac4e",
+            "type_id": "f20de437",
+            "flags": "0x120000",
+            "decoded_bytes": 212,
+            "locator": "3d54f540@7a"
+          },
+          "descriptor_sha256": "02a5eee27f3b8531b6c9402449ace90a78b3e7a0d24d1d568904611a16c644ab",
+          "texture": {
+            "index_offset": 1080476,
+            "record_bytes": 103,
+            "file_id": "c8c89f38",
+            "type_id": "afbec60c",
+            "flags": "0x120000",
+            "decoded_bytes": 262200,
+            "locator": "3d54f5ba@1db95"
+          },
+          "archive": "D:\\Games\\ROMANCE.OF.THE.THREE.KINGDOMS.XIV.v2026.04.12\\game\\0002\\ScreenLayout.rdb.bin",
+          "offset": 1028978106,
+          "record_bytes": 121749,
+          "record_sha256": "b5bd3a0b66e49e98c8fd30cf5987e62476c19a9a3e40e9dd6cba8c07bb106332",
+          "decoded_payload_sha256": "076c08f903cdc0fea9c6ce79a982c40aede50581b6dc1a90192f226dc537e290",
+          "descriptor_association_verified": false,
+          "descriptor_name_candidate": "face_0001_ctr",
+          "converted_filename_basis": "Historical extraction/display name; not a verified native filename."
+        },
+        "identity_basis": "Explicit human identification of the exact displayed review image; native officer/face-number binding unresolved.",
+        "review_sheet_id": "0001"
+      }
+    },
+    "zhang_fei": {
+      "id": "zhang_fei",
+      "name": "Zhang Fei",
+      "faction": "shu",
+      "str": 89,
+      "lead": 86,
+      "portrait": "hud-art/assets/RTS-ROTK14-COMMANDER-ZHANG-FEI-ORIGINAL-PORTRAIT-001-v1.png",
+      "portrait_sha256": "3e67b249a9e049599fca1eb8d909c67a41865d4d03c0eb16cda2192d752b6de4",
+      "portrait_asset_id": "RTS-ROTK14-COMMANDER-ZHANG-FEI-ORIGINAL-PORTRAIT-001",
+      "review_sheet_id": null,
+      "stat_origin": "Authored RTS balance; these are not claimed as recovered native ROTK XIV STR/LEAD.",
+      "source": {
+        "id": "RTS-ROTK14-COMMANDER-ZHANG-FEI-ORIGINAL-PORTRAIT-001",
+        "version": 1,
+        "source": {
+          "index": "D:\\Games\\ROMANCE.OF.THE.THREE.KINGDOMS.XIV.v2026.04.12\\game\\0002\\ScreenLayout.rdb",
+          "index_sha256": "ed2e5b5df09e82bae4d6f8d1eb8ac781e35d3187425db930858c260dacae5385",
+          "index_record": {
+            "index_offset": 82820,
+            "record_bytes": 103,
+            "file_id": "0f511199",
+            "type_id": "afbec60c",
+            "flags": "0x120000",
+            "decoded_bytes": 1310804,
+            "locator": "3d4d0000@7f540"
+          },
+          "record": {
+            "archive": "D:\\Games\\ROMANCE.OF.THE.THREE.KINGDOMS.XIV.v2026.04.12\\game\\0002\\ScreenLayout.rdb.bin",
+            "offset": 1028456448,
+            "record_bytes": 521536,
+            "payload_offset": 1028456536,
+            "packed_bytes": 521448,
+            "decoded_bytes": 1310804,
+            "header_flags": "0x100000",
+            "codec": "length-prefixed-zlib-chunks",
+            "header_sha256": "4797afeae8314f00934e5326cb8576f1339dee592e27e59c9abe39c7003e4fba",
+            "carrier_sha256": "5a9e1a4ced1994ede39ee8cb945e2a9f84236ca8ad045ff1d82d311db6a8ae0c",
+            "packed_sha256": "10043b7c3dc4c3069ca03930332aa3fafaafc7dbb1bd309f2b30f0572eff0d21",
+            "decoded_payload_sha256": "f54a4fa6cefcf061f574767974ed5d3614cd93b497bd970d9eca361ea914daf2"
+          },
+          "raw_g1t": "raw/0f511199/source.g1t",
+          "g1t_sha256": "f54a4fa6cefcf061f574767974ed5d3614cd93b497bd970d9eca361ea914daf2",
+          "retained_source_png": "D:\\Projects\\RTS_3q\\reports\\asset-review\\rotk14-color-border-source-v2\\raw\\0f511199\\source.png",
+          "retained_source_png_sha256": "3e67b249a9e049599fca1eb8d909c67a41865d4d03c0eb16cda2192d752b6de4",
+          "fresh_decoded_rgba_matches_retained": true,
+          "selected_top_mip_sha256": "3e67b249a9e049599fca1eb8d909c67a41865d4d03c0eb16cda2192d752b6de4",
+          "internal_texture1_png": "raw/0f511199/texture-1.png",
+          "internal_texture1_png_sha256": "938a541e9ec59ea5c937b045a6d28f417195cb660401a58103699a1c0f06a709"
+        },
+        "identity_basis": "Original ROTK XIV illustration visually matches the explicit user-selected Zhang Fei reference. No native officer/face-ID mapping is asserted."
+      }
+    },
+    "ma_chao": {
+      "id": "ma_chao",
+      "name": "Ma Chao",
+      "faction": "shu",
+      "str": 92,
+      "lead": 83,
+      "portrait": "portraits/face_0003_ctr.png",
+      "portrait_sha256": "a408de09c7e06e6ac83175bf34b08744719dc76b9e01a986ffcf0839133f406f",
+      "portrait_asset_id": "RTS-ROTK14-COMMANDER-PORTRAIT-0003",
+      "review_sheet_id": "0003",
+      "stat_origin": "Authored RTS balance; these are not claimed as recovered native ROTK XIV STR/LEAD.",
+      "source": {
+        "asset_id": "RTS-ROTK14-COMMANDER-PORTRAIT-0003",
+        "version": 1,
+        "source": {
+          "index": "D:\\Games\\ROMANCE.OF.THE.THREE.KINGDOMS.XIV.v2026.04.12\\game\\0002\\ScreenLayout.rdb",
+          "index_sha256": "ed2e5b5df09e82bae4d6f8d1eb8ac781e35d3187425db930858c260dacae5385",
+          "descriptor": {
+            "index_offset": 815660,
+            "record_bytes": 68,
+            "file_id": "97ddf88c",
+            "type_id": "f20de437",
+            "flags": "0x120000",
+            "decoded_bytes": 212,
+            "locator": "3d5ff83c@7a"
+          },
+          "descriptor_sha256": "4776dbe0008d3ee811957247b0bfa344dc3bf287ed500d30a752c1621a9be087",
+          "texture": {
+            "index_offset": 326936,
+            "record_bytes": 103,
+            "file_id": "3bb7ba76",
+            "type_id": "afbec60c",
+            "flags": "0x120000",
+            "decoded_bytes": 262200,
+            "locator": "3d5ff8b6@1c599"
+          },
+          "archive": "D:\\Games\\ROMANCE.OF.THE.THREE.KINGDOMS.XIV.v2026.04.12\\game\\0002\\ScreenLayout.rdb.bin",
+          "offset": 1029699766,
+          "record_bytes": 116121,
+          "record_sha256": "acf9b2e34379b28812c1833e5d23d749c49ef0e217179c260fddd595ee704563",
+          "decoded_payload_sha256": "4d733ce92db72e028c57386d4f5eaae9b18e07fe563402135358b83980ddadaf",
+          "descriptor_association_verified": false,
+          "descriptor_name_candidate": "face_0003_ctr",
+          "converted_filename_basis": "Historical extraction/display name; not a verified native filename."
+        },
+        "identity_basis": "Explicit human identification of the exact displayed review image; native officer/face-number binding unresolved.",
+        "review_sheet_id": "0003"
+      }
+    },
+    "huang_zhong": {
+      "id": "huang_zhong",
+      "name": "Huang Zhong",
+      "faction": "shu",
+      "str": 95,
+      "lead": 80,
+      "portrait": "portraits/face_0022_ctr.png",
+      "portrait_sha256": "4166de3cb46b9a34767b78cc5fe2395fcace2c2248980c562cc3a815ccc03220",
+      "portrait_asset_id": "RTS-ROTK14-COMMANDER-PORTRAIT-0022",
+      "review_sheet_id": "0022",
+      "stat_origin": "Authored RTS balance; these are not claimed as recovered native ROTK XIV STR/LEAD.",
+      "source": {
+        "asset_id": "RTS-ROTK14-COMMANDER-PORTRAIT-0022",
+        "version": 1,
+        "source": {
+          "index": "D:\\Games\\ROMANCE.OF.THE.THREE.KINGDOMS.XIV.v2026.04.12\\game\\0002\\ScreenLayout.rdb",
+          "index_sha256": "ed2e5b5df09e82bae4d6f8d1eb8ac781e35d3187425db930858c260dacae5385",
+          "descriptor": {
+            "index_offset": 889332,
+            "record_bytes": 68,
+            "file_id": "a547866f",
+            "type_id": "f20de437",
+            "flags": "0x120000",
+            "decoded_bytes": 108,
+            "locator": "3d8437ef@68"
+          },
+          "descriptor_sha256": "ac857370cbb3a5cbb287a2cbd47a3b57ce4c91148d7bae0f809ad918aafa1c59",
+          "texture": {
+            "index_offset": 987728,
+            "record_bytes": 103,
+            "file_id": "b781b1d9",
+            "type_id": "afbec60c",
+            "flags": "0x120000",
+            "decoded_bytes": 262200,
+            "locator": "3d843857@1f1cc"
+          },
+          "archive": "D:\\Games\\ROMANCE.OF.THE.THREE.KINGDOMS.XIV.v2026.04.12\\game\\0002\\ScreenLayout.rdb.bin",
+          "offset": 1032075351,
+          "record_bytes": 127436,
+          "record_sha256": "3c35e5c2e21052d55249225049c52d37595ce48321adac548a24e721469eefd6",
+          "decoded_payload_sha256": "9d5b3c24ece5a24b3f63fc4e7209228f1f4b0f792dcb8d504707734207a8383c",
+          "descriptor_association_verified": false,
+          "descriptor_name_candidate": "face_0022_ctr",
+          "converted_filename_basis": "Historical extraction/display name; not a verified native filename."
+        },
+        "identity_basis": "Explicit human identification of the exact displayed review image; native officer/face-number binding unresolved.",
+        "review_sheet_id": "0022"
+      }
+    },
+    "lu_meng": {
+      "id": "lu_meng",
+      "name": "Lu Meng",
+      "faction": "wu",
+      "str": 80,
+      "lead": 95,
+      "portrait": "portraits/review-0152-lu-meng-v1.png",
+      "portrait_sha256": "9b77d8fde1e72d7fd81dfebfc8f2d285b0960bb91ed38d8f2789770dce573155",
+      "portrait_asset_id": "RTS-ROTK14-COMMANDER-PORTRAIT-0152",
+      "review_sheet_id": "0152",
+      "stat_origin": "Authored RTS balance; these are not claimed as recovered native ROTK XIV STR/LEAD.",
+      "source": {
+        "asset_id": "RTS-ROTK14-COMMANDER-PORTRAIT-0152",
+        "version": 1,
+        "source": {
+          "index": "D:\\Games\\ROMANCE.OF.THE.THREE.KINGDOMS.XIV.v2026.04.12\\game\\0002\\ScreenLayout.rdb",
+          "index_sha256": "ed2e5b5df09e82bae4d6f8d1eb8ac781e35d3187425db930858c260dacae5385",
+          "texture": {
+            "index_offset": 405048,
+            "record_bytes": 103,
+            "file_id": "4a5062bb",
+            "type_id": "afbec60c",
+            "flags": "0x120000",
+            "decoded_bytes": 262200,
+            "locator": "3e637e1c@1d8aa"
+          },
+          "archive": "D:\\Games\\ROMANCE.OF.THE.THREE.KINGDOMS.XIV.v2026.04.12\\game\\0002\\ScreenLayout.rdb.bin",
+          "offset": 1046707740,
+          "record_bytes": 121002,
+          "record_sha256": "e0b758aa5b9f6f8a43f5e76afa8ccc60441e6c604aad65deffaba958b4b05cd9",
+          "decoded_payload_sha256": "466c3d610677485c8bd3117b73b597444fb0dd723c7417fa2b234a2b383d5554",
+          "descriptor_candidate": {
+            "index_offset": 1192124,
+            "record_bytes": 68,
+            "file_id": "ddaef651",
+            "type_id": "f20de437",
+            "flags": "0x120000",
+            "decoded_bytes": 108,
+            "locator": "3e637db4@68"
+          },
+          "descriptor_name_candidate": [
+            "face_0152_ctr"
+          ],
+          "descriptor_association_verified": false
+        },
+        "identity_basis": "Explicit human identification of the exact displayed review image; native officer/face-number binding unresolved.",
+        "review_sheet_id": "0152"
+      }
+    },
+    "huang_gai": {
+      "id": "huang_gai",
+      "name": "Huang Gai",
+      "faction": "wu",
+      "str": 83,
+      "lead": 92,
+      "portrait": "portraits/review-0018-huang-gai-v1.png",
+      "portrait_sha256": "449e90a7628a0b918237173aa776a2d5680a0996f13a3540af2a6910d315d6bc",
+      "portrait_asset_id": "RTS-ROTK14-COMMANDER-PORTRAIT-0018",
+      "review_sheet_id": "0018",
+      "stat_origin": "Authored RTS balance; these are not claimed as recovered native ROTK XIV STR/LEAD.",
+      "source": {
+        "asset_id": "RTS-ROTK14-COMMANDER-PORTRAIT-0018",
+        "version": 1,
+        "source": {
+          "index": "D:\\Games\\ROMANCE.OF.THE.THREE.KINGDOMS.XIV.v2026.04.12\\game\\0002\\ScreenLayout.rdb",
+          "index_sha256": "ed2e5b5df09e82bae4d6f8d1eb8ac781e35d3187425db930858c260dacae5385",
+          "texture": {
+            "index_offset": 638716,
+            "record_bytes": 103,
+            "file_id": "75ae4112",
+            "type_id": "afbec60c",
+            "flags": "0x120000",
+            "decoded_bytes": 262200,
+            "locator": "3d7d078f@1d341"
+          },
+          "archive": "D:\\Games\\ROMANCE.OF.THE.THREE.KINGDOMS.XIV.v2026.04.12\\game\\0002\\ScreenLayout.rdb.bin",
+          "offset": 1031604111,
+          "record_bytes": 119617,
+          "record_sha256": "40a964a19647b03a53f72d422f17d4460206d5bd58c5dc3e6f6381b345325e4e",
+          "decoded_payload_sha256": "3cdbc7a5d27791c1d4dcec36f9e4a01889892f1cccc0198c8b902db82f8bad08",
+          "descriptor_candidate": {
+            "index_offset": 433624,
+            "record_bytes": 68,
+            "file_id": "4fb7d128",
+            "type_id": "f20de437",
+            "flags": "0x120000",
+            "decoded_bytes": 108,
+            "locator": "3d7d0727@68"
+          },
+          "descriptor_name_candidate": [
+            "face_0018_ctr"
+          ],
+          "descriptor_association_verified": false
+        },
+        "identity_basis": "Explicit human identification of the exact displayed review image; native officer/face-number binding unresolved.",
+        "review_sheet_id": "0018"
+      }
+    },
+    "sun_ce": {
+      "id": "sun_ce",
+      "name": "Sun Ce",
+      "faction": "wu",
+      "str": 86,
+      "lead": 89,
+      "portrait": "portraits/review-0062-sun-ce-v1.png",
+      "portrait_sha256": "150e96e0034e3a5a76fed4347aa62dd11474482b4d16063727b5d1abab264c83",
+      "portrait_asset_id": "RTS-ROTK14-COMMANDER-PORTRAIT-0062",
+      "review_sheet_id": "0062",
+      "stat_origin": "Authored RTS balance; these are not claimed as recovered native ROTK XIV STR/LEAD.",
+      "source": {
+        "asset_id": "RTS-ROTK14-COMMANDER-PORTRAIT-0062",
+        "version": 1,
+        "source": {
+          "index": "D:\\Games\\ROMANCE.OF.THE.THREE.KINGDOMS.XIV.v2026.04.12\\game\\0002\\ScreenLayout.rdb",
+          "index_sha256": "ed2e5b5df09e82bae4d6f8d1eb8ac781e35d3187425db930858c260dacae5385",
+          "texture": {
+            "index_offset": 185880,
+            "record_bytes": 103,
+            "file_id": "2204bbdd",
+            "type_id": "afbec60c",
+            "flags": "0x120000",
+            "decoded_bytes": 262200,
+            "locator": "3dc9bcec@1f2e2"
+          },
+          "archive": "D:\\Games\\ROMANCE.OF.THE.THREE.KINGDOMS.XIV.v2026.04.12\\game\\0002\\ScreenLayout.rdb.bin",
+          "offset": 1036631276,
+          "record_bytes": 127714,
+          "record_sha256": "35c9af43e8fb0431151933f04fe53d4d0a3a2aee420c569dd2d69b9ef0ff9fbc",
+          "decoded_payload_sha256": "3354f48860797ceb6c7b7cda2b6fb6daa0a20852f8203bdaaf475498c05eadb4",
+          "descriptor_candidate": {
+            "index_offset": 881764,
+            "record_bytes": 68,
+            "file_id": "a36dee73",
+            "type_id": "f20de437",
+            "flags": "0x120000",
+            "decoded_bytes": 108,
+            "locator": "3dc9bc84@68"
+          },
+          "descriptor_name_candidate": [
+            "face_0062_ctr"
+          ],
+          "descriptor_association_verified": false
+        },
+        "identity_basis": "Explicit human identification of the exact displayed review image; native officer/face-number binding unresolved.",
+        "review_sheet_id": "0062"
+      }
+    },
+    "gan_ning": {
+      "id": "gan_ning",
+      "name": "Gan Ning",
+      "faction": "wu",
+      "str": 89,
+      "lead": 86,
+      "portrait": "portraits/review-0016-gan-ning-v1.png",
+      "portrait_sha256": "dfdb238f3b648f06a53609e21ea280270dc3b76b100a9706ab2d7a3b03ca669d",
+      "portrait_asset_id": "RTS-ROTK14-COMMANDER-PORTRAIT-0016",
+      "review_sheet_id": "0016",
+      "stat_origin": "Authored RTS balance; these are not claimed as recovered native ROTK XIV STR/LEAD.",
+      "source": {
+        "asset_id": "RTS-ROTK14-COMMANDER-PORTRAIT-0016",
+        "version": 1,
+        "source": {
+          "index": "D:\\Games\\ROMANCE.OF.THE.THREE.KINGDOMS.XIV.v2026.04.12\\game\\0002\\ScreenLayout.rdb",
+          "index_sha256": "ed2e5b5df09e82bae4d6f8d1eb8ac781e35d3187425db930858c260dacae5385",
+          "texture": {
+            "index_offset": 13372,
+            "record_bytes": 103,
+            "file_id": "02bf25d4",
+            "type_id": "afbec60c",
+            "flags": "0x120000",
+            "decoded_bytes": 262200,
+            "locator": "3d7973c8@1e833"
+          },
+          "archive": "D:\\Games\\ROMANCE.OF.THE.THREE.KINGDOMS.XIV.v2026.04.12\\game\\0002\\ScreenLayout.rdb.bin",
+          "offset": 1031369672,
+          "record_bytes": 124979,
+          "record_sha256": "318d53351659be662e72a4c8fd6c4358ff453ded8613984b36a5001e3c43c309",
+          "decoded_payload_sha256": "11b81ab4de404165b3e0d40b4511f76e0310ccc62f0d9e4ba839d4692ee2ac48",
+          "descriptor_candidate": {
+            "index_offset": 585924,
+            "record_bytes": 68,
+            "file_id": "6c6484ea",
+            "type_id": "f20de437",
+            "flags": "0x120000",
+            "decoded_bytes": 108,
+            "locator": "3d797360@68"
+          },
+          "descriptor_name_candidate": [
+            "face_0016_ctr"
+          ],
+          "descriptor_association_verified": false
+        },
+        "identity_basis": "Explicit human identification of the exact displayed review image; native officer/face-number binding unresolved.",
+        "review_sheet_id": "0016"
+      }
+    },
+    "zhou_yu": {
+      "id": "zhou_yu",
+      "name": "Zhou Yu",
+      "faction": "wu",
+      "str": 92,
+      "lead": 83,
+      "portrait": "portraits/review-0090-zhou-yu-v1.png",
+      "portrait_sha256": "e7ea15699ceee6e44b65c0ec2897a2f72bffd7615f3146a4634f3b90d392016b",
+      "portrait_asset_id": "RTS-ROTK14-COMMANDER-PORTRAIT-0090",
+      "review_sheet_id": "0090",
+      "stat_origin": "Authored RTS balance; these are not claimed as recovered native ROTK XIV STR/LEAD.",
+      "source": {
+        "asset_id": "RTS-ROTK14-COMMANDER-PORTRAIT-0090",
+        "version": 1,
+        "source": {
+          "index": "D:\\Games\\ROMANCE.OF.THE.THREE.KINGDOMS.XIV.v2026.04.12\\game\\0002\\ScreenLayout.rdb",
+          "index_sha256": "ed2e5b5df09e82bae4d6f8d1eb8ac781e35d3187425db930858c260dacae5385",
+          "texture": {
+            "index_offset": 685904,
+            "record_bytes": 103,
+            "file_id": "7ef7e822",
+            "type_id": "afbec60c",
+            "flags": "0x120000",
+            "decoded_bytes": 262200,
+            "locator": "3dfa9471@1e375"
+          },
+          "archive": "D:\\Games\\ROMANCE.OF.THE.THREE.KINGDOMS.XIV.v2026.04.12\\game\\0002\\ScreenLayout.rdb.bin",
+          "offset": 1039832177,
+          "record_bytes": 123765,
+          "record_sha256": "f937420b2254a80aadeed0aec30ace12f9cf3a5d5acb6c7b0a0e191db160231f",
+          "decoded_payload_sha256": "482d3c073a871405326c0c18acef15133430299d66f331ea737c17f924f378f1",
+          "descriptor_candidate": {
+            "index_offset": 1024228,
+            "record_bytes": 68,
+            "file_id": "beb77038",
+            "type_id": "f20de437",
+            "flags": "0x120000",
+            "decoded_bytes": 108,
+            "locator": "3dfa9409@68"
+          },
+          "descriptor_name_candidate": [
+            "face_0090_ctr"
+          ],
+          "descriptor_association_verified": false
+        },
+        "identity_basis": "Explicit human identification of the exact displayed review image; native officer/face-number binding unresolved.",
+        "review_sheet_id": "0090"
+      }
+    },
+    "taishi_ci": {
+      "id": "taishi_ci",
+      "name": "Taishi Ci",
+      "faction": "wu",
+      "str": 95,
+      "lead": 80,
+      "portrait": "portraits/review-0021-taishi-ci-v1.png",
+      "portrait_sha256": "52825629a137cf35c6a0aee745a285375fc414d663e5a8d75a1bda2fe2a1fb7a",
+      "portrait_asset_id": "RTS-ROTK14-COMMANDER-PORTRAIT-0021",
+      "review_sheet_id": "0021",
+      "stat_origin": "Authored RTS balance; these are not claimed as recovered native ROTK XIV STR/LEAD.",
+      "source": {
+        "asset_id": "RTS-ROTK14-COMMANDER-PORTRAIT-0021",
+        "version": 1,
+        "source": {
+          "index": "D:\\Games\\ROMANCE.OF.THE.THREE.KINGDOMS.XIV.v2026.04.12\\game\\0002\\ScreenLayout.rdb",
+          "index_sha256": "ed2e5b5df09e82bae4d6f8d1eb8ac781e35d3187425db930858c260dacae5385",
+          "texture": {
+            "index_offset": 1373948,
+            "record_bytes": 103,
+            "file_id": "fe0a243a",
+            "type_id": "afbec60c",
+            "flags": "0x120000",
+            "decoded_bytes": 262200,
+            "locator": "3d825373@1e47c"
+          },
+          "archive": "D:\\Games\\ROMANCE.OF.THE.THREE.KINGDOMS.XIV.v2026.04.12\\game\\0002\\ScreenLayout.rdb.bin",
+          "offset": 1031951219,
+          "record_bytes": 124028,
+          "record_sha256": "ed48d4ea145c9cbe8f8c57c5b705bf40ee7f02eb64728fbfd393b17b2c4ef549",
+          "decoded_payload_sha256": "e1bebef2bb6ee0b498587da0443769d4a4c5f28373fc85c1857a7a4632a5d44f",
+          "descriptor_candidate": {
+            "index_offset": 966484,
+            "record_bytes": 68,
+            "file_id": "b39de050",
+            "type_id": "f20de437",
+            "flags": "0x120000",
+            "decoded_bytes": 108,
+            "locator": "3d82530b@68"
+          },
+          "descriptor_name_candidate": [
+            "face_0021_ctr"
+          ],
+          "descriptor_association_verified": false
+        },
+        "identity_basis": "Explicit human identification of the exact displayed review image; native officer/face-number binding unresolved.",
+        "review_sheet_id": "0021"
+      }
+    }
+  }
+}

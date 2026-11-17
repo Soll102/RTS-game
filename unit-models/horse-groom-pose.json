@@ -1,0 +1,169 @@
+{
+  "id": "RTS-SOURCE-HORSE-GROOM-POSE-001",
+  "version": 1,
+  "status": "pending",
+  "approved": false,
+  "origin": "Authored static mane and tail pose on unchanged original source rig, no idle/walk clip or native physics claim",
+  "model_sha256": "517b69f7c58cda58cab5651847153343dcb52ebe354cf680a2ab1fa7b589c236",
+  "source_forward_axis": "+Z (corrected from actual assembled source evidence)",
+  "protected_source_bones": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    14
+  ],
+  "channels": [
+    {
+      "bone": "source_joint_0015",
+      "source_joint": 15,
+      "position": [
+        13.736249923706055,
+        -6.276852673181565e-07,
+        -9.853164291417915e-14
+      ],
+      "rotation": [
+        2.6948886949443493e-17,
+        2.4241933831937605e-17,
+        -0.49999999999999994,
+        0.8660254037844387
+      ],
+      "authored_world_x_delta_degrees": -60
+    },
+    {
+      "bone": "source_joint_0016",
+      "source_joint": 16,
+      "position": [
+        13.736249923706055,
+        -6.276840167629416e-07,
+        6.679067563776508e-13
+      ],
+      "rotation": [
+        3.290380824843225e-18,
+        2.959867840830833e-18,
+        -0.06104853953485688,
+        0.998134798421867
+      ],
+      "authored_world_x_delta_degrees": -7
+    },
+    {
+      "bone": "source_joint_0017",
+      "source_joint": 17,
+      "position": [
+        13.736249923706055,
+        -6.27685494691832e-07,
+        -1.4666023162135389e-05
+      ],
+      "rotation": [
+        -1.8810048283020968e-18,
+        -1.6920643102011062e-18,
+        0.03489949670250097,
+        0.9993908270190958
+      ],
+      "authored_world_x_delta_degrees": 4
+    },
+    {
+      "bone": "source_joint_0018",
+      "source_joint": 18,
+      "position": [
+        13.736249923706055,
+        -6.276852673181565e-07,
+        0.2303716540336609
+      ],
+      "rotation": [
+        -3.2903804064291144e-18,
+        -2.9598727799976717e-18,
+        0.06104853953485688,
+        0.998134798421867
+      ],
+      "authored_world_x_delta_degrees": 7
+    },
+    {
+      "bone": "source_joint_0019",
+      "source_joint": 19,
+      "position": [
+        13.736249923706055,
+        -6.276853810049943e-07,
+        -1.4335754805472334e-13
+      ],
+      "rotation": [
+        -3.7597182381491846e-18,
+        -3.3820655738238058e-18,
+        0.06975647374412532,
+        0.9975640502598243
+      ],
+      "authored_world_x_delta_degrees": 8
+    },
+    {
+      "bone": "source_joint_0029",
+      "source_joint": 29,
+      "position": [
+        16.754289627075195,
+        -41.683074951171875,
+        -1.2618601909902827e-12
+      ],
+      "rotation": [
+        -5.410868827840119e-08,
+        -2.8357188872142613e-09,
+        -0.9483236527440239,
+        0.31730466376375455
+      ],
+      "authored_world_x_delta_degrees": -80
+    },
+    {
+      "bone": "source_joint_0031",
+      "source_joint": 31,
+      "position": [
+        11.454280853271484,
+        -27.363012313842773,
+        -6.708517747387732e-13
+      ],
+      "rotation": [
+        -5.124442642909364e-08,
+        -2.685609250361912e-09,
+        -0.9335804237163895,
+        0.3583679567895601
+      ],
+      "authored_world_x_delta_degrees": -75
+    },
+    {
+      "bone": "source_joint_0033",
+      "source_joint": 33,
+      "position": [
+        -1.271986722946167,
+        -16.040019989013672,
+        -4.689586392825351e-13
+      ],
+      "rotation": [
+        -4.6986206573016724e-08,
+        1.5721361017275325e-08,
+        -0.9998476945672373,
+        0.017452440189788702
+      ],
+      "authored_world_x_delta_degrees": -72
+    },
+    {
+      "bone": "source_joint_0035",
+      "source_joint": 35,
+      "position": [
+        -18.98421287536621,
+        -8.856829643249512,
+        2.362220783425073e-07
+      ],
+      "rotation": [
+        -2.971355104285455e-08,
+        3.4181528741535433e-08,
+        -0.8987940576972064,
+        -0.4383711234196305
+      ],
+      "authored_world_x_delta_degrees": -65
+    }
+  ],
+  "source_model_id": "cdf4bc12",
+  "source_rig_sha256": "c05129709a2dcc7dd0a86e7537c25c103c369afbd107825158264d9cf00dc9c9"
+}

@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "TRB8-FOREST-CHUNK-0-0",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-0-0.glb",
+    "center": [
+      -160,
+      -120
+    ],
+    "sha256": "e6cf83a75fec7f48a598f3362d72b8e2327f2c55a3089524bf4325823482734f"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-0-1",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-0-1.glb",
+    "center": [
+      -160,
+      -80
+    ],
+    "sha256": "83bebbdef0741dfa53a08c6c7a1206fe888cbb0708b9c5ab7d56e8516fc06484"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-0-2",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-0-2.glb",
+    "center": [
+      -160,
+      -40
+    ],
+    "sha256": "e5e3476e9fa90aa36aeb441683a601a7c39770699065cb3944d32f536c286e30"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-0-3",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-0-3.glb",
+    "center": [
+      -160,
+      0
+    ],
+    "sha256": "8ea3ac65333f0ef511b34fe1245837a6404e099005518c87acb834cd5e350fad"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-0-4",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-0-4.glb",
+    "center": [
+      -160,
+      40
+    ],
+    "sha256": "2c26fc7b0473a58e6260a729c356df53c1573ba144a0acbb473f6288e9eac83b"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-0-5",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-0-5.glb",
+    "center": [
+      -160,
+      80
+    ],
+    "sha256": "0830ddbd2940d104b704e8dd920976a421f5447d8cac123a5f99ef4e83f32988"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-0-6",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-0-6.glb",
+    "center": [
+      -160,
+      120
+    ],
+    "sha256": "8e97f2b91d4d49d374af7d0a8080d708bcdd71a868e2e6b3ee31e06204bac8fc"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-1-0",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-1-0.glb",
+    "center": [
+      -120,
+      -120
+    ],
+    "sha256": "10f7fd362410e1cba1de9759e6de38956ebb449043b5705e719bbe328bed0007"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-1-1",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-1-1.glb",
+    "center": [
+      -120,
+      -80
+    ],
+    "sha256": "2f5625b608f9a1822acf694abba9bfc299d901ffe2a8f3d503ae679ac6c2be71"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-1-2",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-1-2.glb",
+    "center": [
+      -120,
+      -40
+    ],
+    "sha256": "e7dbc684bdd6e7c72e5d801dc27a138e6b9e2d022fec5afdcf8c1cc01d2ae206"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-1-3",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-1-3.glb",
+    "center": [
+      -120,
+      0
+    ],
+    "sha256": "0853a9d1e96dad3a85c004c35c92b69d8740751d206fcc6147e58c09893123ac"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-1-4",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-1-4.glb",
+    "center": [
+      -120,
+      40
+    ],
+    "sha256": "fedb642e2f564f7abd5e735e91b96a1f217315ec59d0fb071f41a3de750bcd5c"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-1-5",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-1-5.glb",
+    "center": [
+      -120,
+      80
+    ],
+    "sha256": "9699307416c29613cbfaf15cddad32ac6e52491a51c6cb259023ef3065c1608e"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-2-0",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-2-0.glb",
+    "center": [
+      -80,
+      -120
+    ],
+    "sha256": "62203178c2eef7b632f6b074be0c3f7aa0cd54f49ecb7a61a99d98e80b1ad08f"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-2-1",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-2-1.glb",
+    "center": [
+      -80,
+      -80
+    ],
+    "sha256": "9be5f5a92656321a98873f66b43a3cbc0062169d92bf90d8f917b08c991553cf"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-2-2",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-2-2.glb",
+    "center": [
+      -80,
+      -40
+    ],
+    "sha256": "35b2177a12500e2828a75191ae5adfebb5720588d7bddefac231287057c37699"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-2-3",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-2-3.glb",
+    "center": [
+      -80,
+      0
+    ],
+    "sha256": "3509068e156e83fd6d8b598649af523cd4a7b4bb8581fdecd48db5a7a86e0ad5"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-2-4",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-2-4.glb",
+    "center": [
+      -80,
+      40
+    ],
+    "sha256": "eb49df1e95947396d0f65eb203084597d79b08a3da5003ecc53de790f66d0cec"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-2-5",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-2-5.glb",
+    "center": [
+      -80,
+      80
+    ],
+    "sha256": "e65660bf5e7bac0a521eaa6c8eb32f189dc90fa3433a4fb743ffc2d5e8dcc51b"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-2-6",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-2-6.glb",
+    "center": [
+      -80,
+      120
+    ],
+    "sha256": "b742105df468c8a3652bb72423fcf65a88d34f5fd2ed7c41fdf2af2af6996714"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-3-0",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-3-0.glb",
+    "center": [
+      -40,
+      -120
+    ],
+    "sha256": "15d7944f730dba1a0c8638379f77694d16365e405f0dc8311485c81c9d09db51"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-3-1",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-3-1.glb",
+    "center": [
+      -40,
+      -80
+    ],
+    "sha256": "72bd7f9886a8c5184f31ccc2f8330b9ca78fc67a8ab0224a203257a189daba1d"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-3-2",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-3-2.glb",
+    "center": [
+      -40,
+      -40
+    ],
+    "sha256": "29794f4706d471f3c67a4df57250f299d5ca4242c72ca5dbf0b35df14b1b8983"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-3-3",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-3-3.glb",
+    "center": [
+      -40,
+      0
+    ],
+    "sha256": "0f348fa4c3697da8abe0f99718b6379bd8cda04c18ebd63b87e5c4036a4a48d1"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-3-4",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-3-4.glb",
+    "center": [
+      -40,
+      40
+    ],
+    "sha256": "c10c8374ead45df2b24abac826fe26a89637ac29eca54fc7bfee7d85d7fdb6d0"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-3-5",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-3-5.glb",
+    "center": [
+      -40,
+      80
+    ],
+    "sha256": "cd31f79a434225b8c9415f3f5289ece2a1dc460588b3a11e3ee413f31fa9e586"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-3-6",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-3-6.glb",
+    "center": [
+      -40,
+      120
+    ],
+    "sha256": "f1d0d63949f020310cb6d00d1600a786f827531b5b83f86d412ba646603632a4"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-4-0",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-4-0.glb",
+    "center": [
+      0,
+      -120
+    ],
+    "sha256": "71ab572a8a3951cc5ec0a6b46ad8d1ebd87b91b1ec616cebc924166e4c4e09dd"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-4-1",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-4-1.glb",
+    "center": [
+      0,
+      -80
+    ],
+    "sha256": "7d870b4487559f8b38012c7b5fb51bd3686d4bdb6f27b9aa3bcc8fd1d9f1c6c9"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-4-2",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-4-2.glb",
+    "center": [
+      0,
+      -40
+    ],
+    "sha256": "86553cb633c95b5383e5703ba59ec13f2d456089a450a2a27e70e1af82f9e119"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-4-5",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-4-5.glb",
+    "center": [
+      0,
+      80
+    ],
+    "sha256": "e51c8ea1aa2f6887d6883641a9ae858fe62a53ceb820cf8848f34cece7205a6d"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-4-6",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-4-6.glb",
+    "center": [
+      0,
+      120
+    ],
+    "sha256": "d4422b1ad60e638f52f1e7d004e96bc4af3e5fc2521d1b29308a41b394d7bd2d"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-5-0",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-5-0.glb",
+    "center": [
+      40,
+      -120
+    ],
+    "sha256": "5ef9cb6d0a446701abe562bb4dc1b5298a57e949e453de71ec9cf04346678156"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-5-1",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-5-1.glb",
+    "center": [
+      40,
+      -80
+    ],
+    "sha256": "3142b0c783df173e424e809faf0a20cb83be9c68d2c13f9966b1623c259abd59"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-5-3",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-5-3.glb",
+    "center": [
+      40,
+      0
+    ],
+    "sha256": "74b904136df40a2490a3ab2691eaa00f7f92bc510d40d646bcd09432900872c3"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-5-4",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-5-4.glb",
+    "center": [
+      40,
+      40
+    ],
+    "sha256": "4b06296e140d3e9050ba6135d44d25f0354bedcad6be8530bdaf4fd235a2d6c8"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-5-5",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-5-5.glb",
+    "center": [
+      40,
+      80
+    ],
+    "sha256": "43749f5445d15afa2e6a10d3eeb255f6cabd8fd39ff0e4d304d15d43d10f616f"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-5-6",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-5-6.glb",
+    "center": [
+      40,
+      120
+    ],
+    "sha256": "2da79e7af091b9bc2054dedc3bf596e52b6c7842c2c05a59f4c7d46ac112dae5"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-6-0",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-6-0.glb",
+    "center": [
+      80,
+      -120
+    ],
+    "sha256": "6e2a9b49ed8aa75975768c5c1bf5740ccad0a8c9e08b1549cf021f9ac93db579"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-6-1",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-6-1.glb",
+    "center": [
+      80,
+      -80
+    ],
+    "sha256": "8325e51cd2bf84b08baa7229377f084281abc17cd0e91bea85fce70b62e1eb1b"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-6-2",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-6-2.glb",
+    "center": [
+      80,
+      -40
+    ],
+    "sha256": "00406a3d75b814608b4ac96974efd57cde0d7905c23eac63281cd38bba58f505"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-6-3",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-6-3.glb",
+    "center": [
+      80,
+      0
+    ],
+    "sha256": "0389b6bdf3589c0795670553fc1b7ce2dc6454d094c138a3892098deef38dd1b"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-6-4",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-6-4.glb",
+    "center": [
+      80,
+      40
+    ],
+    "sha256": "fd349b9da37ad5ee952672e5c8a21371d10c71e1584fbc5fbf4bebd636dbe338"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-6-5",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-6-5.glb",
+    "center": [
+      80,
+      80
+    ],
+    "sha256": "19ed1be2eea91832355c0db9c80c4de373677a1e68e5b99fe799a81cf1529a72"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-6-6",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-6-6.glb",
+    "center": [
+      80,
+      120
+    ],
+    "sha256": "da1f71b87559ef18b30895a5a608d42cd7979c57398e9c875b5358233af6341f"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-7-0",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-7-0.glb",
+    "center": [
+      120,
+      -120
+    ],
+    "sha256": "cff731f48910144876af757c1a92d8afc7c2f7491cd7e414ef1c197b372ee673"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-7-1",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-7-1.glb",
+    "center": [
+      120,
+      -80
+    ],
+    "sha256": "e13ed9a1fce5e48872efbe3bebe5bef4de5e2e223dc9e23a18bd8c9034a2fd12"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-7-2",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-7-2.glb",
+    "center": [
+      120,
+      -40
+    ],
+    "sha256": "30b72bf2eb0d5065c122177d6fa7fd49d34ffcc2a7c22561a7daa5f9e92092cc"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-7-4",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-7-4.glb",
+    "center": [
+      120,
+      40
+    ],
+    "sha256": "115484264238c127b3f6d4825a3157427a323bbf24c61a0b3aeaf4da7cb278d8"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-7-5",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-7-5.glb",
+    "center": [
+      120,
+      80
+    ],
+    "sha256": "ecdd69483873bdc1d3db30f03078ad3226583b21c3360d16326c37a3a354e06c"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-7-6",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-7-6.glb",
+    "center": [
+      120,
+      120
+    ],
+    "sha256": "df2081264da84ac700c7e43065ab52d3e0a68e25fcb5377c9c658224666290a3"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-8-1",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-8-1.glb",
+    "center": [
+      160,
+      -80
+    ],
+    "sha256": "debc9b21463ab64ff4cbfe0c0195f67f7b8bac34104044d90dc4320335811c3c"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-8-2",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-8-2.glb",
+    "center": [
+      160,
+      -40
+    ],
+    "sha256": "4a9f73938f90d3af5b6e0765229c97141799b165a991e2ba7a32551b374b4b11"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-8-3",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-8-3.glb",
+    "center": [
+      160,
+      0
+    ],
+    "sha256": "bb0566a4069385f39bb632add8b8e8590a3d16529b03498fc005a2c631022248"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-8-4",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-8-4.glb",
+    "center": [
+      160,
+      40
+    ],
+    "sha256": "6c5e7fbe7916fb92327f4a98496fc3ee66ee7c4512602b4df6206e8ad197feb1"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-8-5",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-8-5.glb",
+    "center": [
+      160,
+      80
+    ],
+    "sha256": "860e4c2e369cec6306534f4e3328e9d3274d3650c83a13205cfa25b4f7d7eb30"
+  },
+  {
+    "id": "TRB8-FOREST-CHUNK-8-6",
+    "type": "TRB6-FOREST-001",
+    "file": "res://assets/map-v6/TRB8-FOREST-CHUNK-8-6.glb",
+    "center": [
+      160,
+      120
+    ],
+    "sha256": "f766742f72a5c7a8839d1e90a6c5e9f53a6611872a91fc3885dccc4859b90b44"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-0-0",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-0-0.glb",
+    "center": [
+      -160,
+      -120
+    ],
+    "sha256": "1de783cdc73f475eb9b5657b7781c9fab16cc1d895ee390e70c2147671b0b8fc"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-0-1",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-0-1.glb",
+    "center": [
+      -160,
+      -80
+    ],
+    "sha256": "bdaaeed076b01f7b23b026e9545fcc391ec02d1edab374f811e8025de1329c91"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-0-4",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-0-4.glb",
+    "center": [
+      -160,
+      40
+    ],
+    "sha256": "e15e9a9fc76a4cfe55a614b00040db2a57e53c07045e41f63ff682510034dd48"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-0-5",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-0-5.glb",
+    "center": [
+      -160,
+      80
+    ],
+    "sha256": "ee24cc31061efcfd7680c5a2f618c4a6d7f6bb2bd815149f6ea056acfef64d63"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-0-6",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-0-6.glb",
+    "center": [
+      -160,
+      120
+    ],
+    "sha256": "ac4171ab54b3a94f2657674e5b2c9b113294a0a750e7c4b073ee2b2501f82863"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-1-0",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-1-0.glb",
+    "center": [
+      -120,
+      -120
+    ],
+    "sha256": "6d094b21cd7ee09f0fab4f5d2c1033f9c64f334e7307040463eb784b5b954727"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-1-1",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-1-1.glb",
+    "center": [
+      -120,
+      -80
+    ],
+    "sha256": "4e8605cecca411eb74952bc2157296222c15e8cf7a2221b4e6ce0dc87c3e5797"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-1-2",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-1-2.glb",
+    "center": [
+      -120,
+      -40
+    ],
+    "sha256": "c9278a5937f1486892e076d85214a943a4960ad66756496c9b7db0e7e6c071f1"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-1-3",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-1-3.glb",
+    "center": [
+      -120,
+      0
+    ],
+    "sha256": "ca250e903ddb341642e97417c24859d46ac0e3dd4482a970680ffc44890d5068"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-1-4",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-1-4.glb",
+    "center": [
+      -120,
+      40
+    ],
+    "sha256": "f0b6ab8b35580c80a5a3b65446da5305dc42f212033e56e1b4a047b16e8566fe"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-1-5",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-1-5.glb",
+    "center": [
+      -120,
+      80
+    ],
+    "sha256": "b6b6517df8d3b8a6eb392ae5c04e7f993d5d231cf5f71856535c6eb594026d08"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-2-0",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-2-0.glb",
+    "center": [
+      -80,
+      -120
+    ],
+    "sha256": "0406b152bb81242bb1a2f2e762ccdab6889a0a3da1842056a7193445b40f6b26"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-2-1",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-2-1.glb",
+    "center": [
+      -80,
+      -80
+    ],
+    "sha256": "5f5fc013b0e28e476a24d33c6e5bfb7e5029988f70ea5fa627b468f47d21c401"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-2-2",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-2-2.glb",
+    "center": [
+      -80,
+      -40
+    ],
+    "sha256": "fa57beeb833bf13fbd994e45507a3e36576dbd30b782e14b07887841bc088368"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-2-3",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-2-3.glb",
+    "center": [
+      -80,
+      0
+    ],
+    "sha256": "b7cdad0827593c2f1cd1e4dcc1f9763faf5f847712e54ccf6b1c08d72a747fef"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-2-4",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-2-4.glb",
+    "center": [
+      -80,
+      40
+    ],
+    "sha256": "7739da1b470e6166cff29087b3919da558f92a3ff07ba9892698b0931996ade6"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-2-5",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-2-5.glb",
+    "center": [
+      -80,
+      80
+    ],
+    "sha256": "8f2d15442eacbcc6a1833792aff429ac449957b0d9e3eca4de7bb36b1ea84f63"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-2-6",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-2-6.glb",
+    "center": [
+      -80,
+      120
+    ],
+    "sha256": "f21c9a4f49f6ad09e7257ec1332a93f37cad98a7c6bb5def74c10c0833e02a2a"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-3-0",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-3-0.glb",
+    "center": [
+      -40,
+      -120
+    ],
+    "sha256": "4e42a40d2cf006c456afb6b8df1055bb4dc6e951221417e9343a8777038c6f21"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-3-1",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-3-1.glb",
+    "center": [
+      -40,
+      -80
+    ],
+    "sha256": "032f61eeec7734bfece941b285f0694c05ea9fd34445f192c5999d6a6510759e"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-3-2",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-3-2.glb",
+    "center": [
+      -40,
+      -40
+    ],
+    "sha256": "ceef10957ba35d543fcc9352e76b6fc07e8d881c538cfde257cb07e7a82d8949"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-3-3",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-3-3.glb",
+    "center": [
+      -40,
+      0
+    ],
+    "sha256": "ebf5c9604f28b295b68b0d48e0405114c905d7dfb4ead9e120f5da89638df6bc"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-3-4",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-3-4.glb",
+    "center": [
+      -40,
+      40
+    ],
+    "sha256": "a2b5dc68e5aa075fc8b6351a283e0dfb4113ade4a36ecbc3d31c6eb746992d21"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-3-5",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-3-5.glb",
+    "center": [
+      -40,
+      80
+    ],
+    "sha256": "d4d247a39f349708e556c9a8ca9d134321a6fe7138369408ee9916544c9253e6"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-3-6",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-3-6.glb",
+    "center": [
+      -40,
+      120
+    ],
+    "sha256": "9db0681e486743fdfd6d6f34fc9fb425787d6d93bd718dfe6ba1a26777951ae6"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-4-1",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-4-1.glb",
+    "center": [
+      0,
+      -80
+    ],
+    "sha256": "1b5c7c5e449e487e97e2a8db8ce401ebf8ad7e0bc9f69805dbe89c130aaede78"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-4-2",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-4-2.glb",
+    "center": [
+      0,
+      -40
+    ],
+    "sha256": "a3fc4bd36243906b8749550372e868ac933982031543c2c96ef6a2a389c7d030"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-4-3",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-4-3.glb",
+    "center": [
+      0,
+      0
+    ],
+    "sha256": "39939490c914b67c592f3a7233c1eb977c32a59fc00e7772e2d04668a852b6ec"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-4-4",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-4-4.glb",
+    "center": [
+      0,
+      40
+    ],
+    "sha256": "aad3df7dcb352e17334dffcf95ca8eb9ccaf56686c0ca35e4f6acd8a0034c773"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-4-5",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-4-5.glb",
+    "center": [
+      0,
+      80
+    ],
+    "sha256": "1fb761520e5d9c454a6359eb54837e96ffcf68c6babae05ea7d040314b640f75"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-5-1",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-5-1.glb",
+    "center": [
+      40,
+      -80
+    ],
+    "sha256": "505c3f4f8ae18eb39daf6c24c148033a73475b6bd6ad87571bd608c4900ac464"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-5-2",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-5-2.glb",
+    "center": [
+      40,
+      -40
+    ],
+    "sha256": "33283a2685c1200da4aec02827c83e4f5d768b4ca62ece7ce8c7e5899313405f"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-5-3",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-5-3.glb",
+    "center": [
+      40,
+      0
+    ],
+    "sha256": "879e280f5434f732d7bee82fbbf33487a14479ed825573abbf58d40015b36111"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-5-4",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-5-4.glb",
+    "center": [
+      40,
+      40
+    ],
+    "sha256": "6036e36aafbd7f98ec0db073160f92c0a911426baad491a03919e05e08d77be3"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-5-5",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-5-5.glb",
+    "center": [
+      40,
+      80
+    ],
+    "sha256": "f87365aceb03fbbe5f01a5f3078db145e9800cb9e90277c57794c636baa54078"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-5-6",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-5-6.glb",
+    "center": [
+      40,
+      120
+    ],
+    "sha256": "aaa67e94a959725d60b74b1ff20d57b9d5fe053793ea89ae4e6224e0aea7c4e0"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-6-0",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-6-0.glb",
+    "center": [
+      80,
+      -120
+    ],
+    "sha256": "bfea9a0c5acff0e4f7cca66d1623c1bda28605cf7523be0091f81e71d3853143"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-6-1",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-6-1.glb",
+    "center": [
+      80,
+      -80
+    ],
+    "sha256": "8f339cd3c62380ceedd7d328f607571a4d8d3ba376074fd5529869340ec1d076"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-6-2",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-6-2.glb",
+    "center": [
+      80,
+      -40
+    ],
+    "sha256": "702fb3e091b7b260c7c446cb37d92c74642a3f959ec43e1e8af8e7191e1111db"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-6-3",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-6-3.glb",
+    "center": [
+      80,
+      0
+    ],
+    "sha256": "2d82e0628df98d466eb84de42c4f9631240614ac76ab3fa1932b3a57228638cb"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-6-4",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-6-4.glb",
+    "center": [
+      80,
+      40
+    ],
+    "sha256": "ddb63ab97ead331bfe0375c4b2491b59ae4e479c3072e55b506872bb8781dd78"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-6-5",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-6-5.glb",
+    "center": [
+      80,
+      80
+    ],
+    "sha256": "9794e4f8d1569010a39f66fc8abb821688286e1bcec22394c8c1b7a867738084"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-6-6",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-6-6.glb",
+    "center": [
+      80,
+      120
+    ],
+    "sha256": "580a4057976cb734808a8ae93b5f9ebb24b0554f0574e41fb9ea8291bdd64d60"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-7-0",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-7-0.glb",
+    "center": [
+      120,
+      -120
+    ],
+    "sha256": "f60c3f62c6ceb17e2a786e6f560adf6867c8754331eda26fd2939ec594008db5"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-7-1",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-7-1.glb",
+    "center": [
+      120,
+      -80
+    ],
+    "sha256": "8bd509e1b2a0290a0526e0722f43e68cd3ed0fbf0b8d3adc311101832ede358f"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-7-2",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-7-2.glb",
+    "center": [
+      120,
+      -40
+    ],
+    "sha256": "fc9f6773011c146a905ecb48d830fb2e0112857404d4eda7295f95819837b05a"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-7-3",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-7-3.glb",
+    "center": [
+      120,
+      0
+    ],
+    "sha256": "328459028a3d1d73cbe8dc624194341733b3689fe3bf3fd5183781d3fdfd96cd"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-7-4",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-7-4.glb",
+    "center": [
+      120,
+      40
+    ],
+    "sha256": "55bac47ece5e63dd8623ad68e5fbe1a20618032c2b55dbe9767974764e0dc24f"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-7-5",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-7-5.glb",
+    "center": [
+      120,
+      80
+    ],
+    "sha256": "02baa3d82708f8b971de5ed2be33fbdaba4bf91a6f6697671ab3b8c7f4ff6fdf"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-8-2",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-8-2.glb",
+    "center": [
+      160,
+      -40
+    ],
+    "sha256": "50b233d8f43a7ae417683a050b206ced235c62a002983788b39ec6675d8f0fe4"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-8-3",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-8-3.glb",
+    "center": [
+      160,
+      0
+    ],
+    "sha256": "bf7644ebe0cffbd0ad63417a5a9eb4e80eae41e30a7047e1d33c40957280e9f8"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-8-5",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-8-5.glb",
+    "center": [
+      160,
+      80
+    ],
+    "sha256": "e54a0265330d298a2de43214a9a421fb8ba2ee38cef0274ba4b2a9a47e146790"
+  },
+  {
+    "id": "TRB8-GRASS-CHUNK-8-6",
+    "type": "TRB6-GRASS-001",
+    "file": "res://assets/map-v6/TRB8-GRASS-CHUNK-8-6.glb",
+    "center": [
+      160,
+      120
+    ],
+    "sha256": "53698c592ed00cd1747629b42fb194612281f471f77c6f1102f12cdea8f3849b"
+  }
+]
