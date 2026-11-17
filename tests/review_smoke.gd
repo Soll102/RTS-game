@@ -53,6 +53,12 @@ func run() -> void:
 	if not commanders.is_empty():recruit_error=game.app.session.recruit_for_commander("infantry",str(commanders[0]),500)
 	var expected_cost: int=500*int(game.simulation.PROFILES.infantry.cost)*int(game.simulation.SCALE)
 	check("recruitment uses commander and current food cost",recruit_error.is_empty() and game.simulation.cities.C1.food==before_food-expected_cost)
+	if DisplayServer.get_name()!="headless":
+		game.interface.update_view(1.0)
+		for frame in range(8):await process_frame
+		await RenderingServer.frame_post_draw
+		DirAccess.make_dir_recursive_absolute("res://captures")
+		check("rendered campaign capture",root.get_texture().get_image().save_png("res://captures/review-campaign.png")==OK)
 	game.simulation.configure_ai([])
 	for city in game.simulation.cities.values():
 		city.owner="wei"
